@@ -1,0 +1,28 @@
+Fatigue
+Pain
+Cough
+Fever
+Nasal Congestion
+Runny Nose
+Sore Throat
+Headache
+Gastrointestinal Issues
+Dizziness
+Lightheadedness
+Sleep Disturbances
+Appetite
+Weight
+Skin Rashes
+Skin Irritation
+Swelling
+Edema
+Shortness of Breath
+Dyspnea
+Bowel Habits
+Bladder Habits
+Chest Pain
+Back Pain
+Joint Pain
+Joint Stiffness
+Swollen Lymph Nodes
+Vision

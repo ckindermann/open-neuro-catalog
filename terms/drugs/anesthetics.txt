@@ -1,0 +1,6 @@
+Propofol
+Sevoflurane
+Desflurane
+Isoflurane
+Nitrous Oxide
+Enflurane

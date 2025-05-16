@@ -1,0 +1,5 @@
+Donepezil
+Rivastigmine
+Galantamine
+Memantine
+Tacrine
