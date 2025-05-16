@@ -1,0 +1,4 @@
+prefix	base
+SNOMED	http://purl.bioontology.org/ontology/SNOMEDCT/
+MESH	http://purl.bioontology.org/ontology/MESH/
+NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#
