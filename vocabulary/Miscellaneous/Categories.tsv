@@ -5,5 +5,7 @@ Symptoms	ONVOC:0001000	MESH:D012816	exact match
 Drugs_and_Medications	ONVOC:0002000	MESH:D004364	exact match
 Brain_Regions	ONVOC:0003000	MESH:D001921	exact match
 Physiological_Phenomena	ONVOC:0004000	MESH:D010829	exact match
-Behaviors	ONVOC:0005000	MESH:D001519	exact match
 Miscellaneous	ONVOC:0005000	NCIT:C69023	exact match
+Behaviors	ONVOC:0005001	MESH:D001519	exact match
+Handedness	ONVOC:0005002	SNOMED:364940007	exact match
+Physiological Phenomenon	ONVOC:0005003	MESH:D010829	exact match
