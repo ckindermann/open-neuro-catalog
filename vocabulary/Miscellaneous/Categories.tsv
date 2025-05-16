@@ -1,0 +1,9 @@
+term	vocabulary_id	mapping_id	comment
+Categories	ONVOC:0000000	OWL:Thing	exact match
+Disorders	ONVOC:0000001	MESH:D001519	exact match
+Symptoms	ONVOC:0001000	MESH:D012816	exact match
+Drugs_and_Medications	ONVOC:0002000	MESH:D004364	exact match
+Brain_Regions	ONVOC:0003000	MESH:D001921	exact match
+Physiological_Phenomena	ONVOC:0004000	MESH:D010829	exact match
+Behaviors	ONVOC:0005000	MESH:D001519	exact match
+Miscellaneous	ONVOC:0005000	NCIT:C69023	exact match

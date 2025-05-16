@@ -1,0 +1,8 @@
+term	vocabulary_id	mapping_id	comment
+Anxiety Disorders	ONVOC:0000024	MESH:D001008	exact match
+Panic Disorder	ONVOC:0000025	MESH:D016584	exact match
+Bipolar Disorder	ONVOC:0000026	MESH:D001714	exact match
+Borderline Personality Disorder	ONVOC:0000027	MESH:D001883	exact match
+Personality Disorders	ONVOC:0000028	MESH:D010554	exact match
+Autism Spectrum Disorder	ONVOC:0000029	MESH:D000067877	exact match
+Schizophrenia	ONVOC:0000030	MESH:D012559	exact match

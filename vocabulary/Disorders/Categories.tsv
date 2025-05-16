@@ -1,0 +1,5 @@
+term	vocabulary_id	mapping_id	comment
+Disorders	ONVOC:0000001	NCIT:C2991	exact match
+Medical Disorders	ONVOC:0000002	NCIT:C156809	broad match
+Neurological Disorders	ONVOC:0000003	MESH:D009422	broad match
+Psychiatric Disorders	ONVOC:0000004	NCIT:C2894	broad match
