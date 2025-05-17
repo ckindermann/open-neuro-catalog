@@ -1,0 +1,7 @@
+term	vocabulary_id	mapping_id	comment
+Adult	ONVOC:0005011	SNOMED:133936004	exact match
+Elderly	ONVOC:0005012	SNOMED:105436006	exact match
+Minor	ONVOC:0005013	SNOMED:410599005	exact match
+Adolescent	ONVOC:0005014	SNOMED:133937008	exact match
+Child	ONVOC:0005015	SNOMED:67822003	exact match
+Infant	ONVOC:0005016	SNOMED:133931009	exact match
