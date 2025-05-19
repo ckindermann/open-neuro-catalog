@@ -1,4 +1,4 @@
-term	vocabulary	mapping	comment
+term	vocabulary_id	mapping_id	comment
 Right handed	ONVOC:0005007	SNOMED:46669005	exact match
 Left handed	ONVOC:0005008	SNOMED:87683000	exact match
 Ambidextrous	ONVOC:0005009	SNOMED:23088002	exact match

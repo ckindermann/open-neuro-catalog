@@ -1,2 +1,4 @@
-term	vocabulary	mapping	comment
+term	vocabulary_id	mapping_id	comment
 Drug Use	ONVOC:0005004	SNOMED:1187057000	exact match
+Self-Harm	ONVOC:0005017	MESH:D016728	exact match
+Alcoholism	ONVOC:0005030	MESH:D000437	exact match
