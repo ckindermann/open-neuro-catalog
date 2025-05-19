@@ -6,3 +6,13 @@ Borderline Personality Disorder	ONVOC:0000027	MESH:D001883	exact match
 Personality Disorders	ONVOC:0000028	MESH:D010554	exact match
 Autism Spectrum Disorder	ONVOC:0000029	MESH:D000067877	exact match
 Schizophrenia	ONVOC:0000030	MESH:D012559	exact match
+Developmental Disorder	ONVOC:0000031	MESH:D002658	exact match
+Attention-Deficit Hyperactivity Disorder	ONVOC:0000032	MESH:D001289	exact match
+Psychotic Disorder	ONVOC:0000033	MESH:D011618	exact match
+Affective Psychotic Disorder	ONVOC:0000034	MESH:D000341	exact match
+Phobia	ONVOC:0000046		
+Major Depressive Disorder	ONVOC:0000047		
+Post-Traumatic Stress Disorder	ONVOC:0000048		
+Obsessive-Compulsive Disorder	ONVOC:0000049		
+Eating Disorders	ONVOC:0000050		
+Substance Use Disorders	ONVOC:0000051		

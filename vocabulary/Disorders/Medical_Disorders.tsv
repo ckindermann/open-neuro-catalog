@@ -4,3 +4,11 @@ Chronic Obstructive Pulmonary Disease	ONVOC:0000006	MESH:D029424	exact match
 Hypertension	ONVOC:0000007	MESH:D006973	exact match
 Hyperlipidemia	ONVOC:0000008	MESH:D006949	exact match
 Type 2 Diabetes Mellitus	ONVOC:0000009	MESH:D003924	exact match
+Osteoarthritis	ONVOC:0000035		
+Chronic Kidney Disease	ONVOC:0000036		
+Asthma	ONVOC:0000037		
+Coronary Artery Disease	ONVOC:0000038		
+Gastroesophageal Reflux Disease	ONVOC:0000039		
+Hypothyroidism	ONVOC:0000040		
+Anemia	ONVOC:0000041		
+Cancer	ONVOC:0000042		
