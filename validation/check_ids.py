@@ -16,11 +16,12 @@ Script to validate vocabulary TSV files against defined ID ranges.
 
 - Validates that:
   1. Each `term` maps to exactly one valid `vocabulary_id`.
-  2. For any TSV located under a folder named after a category in `id_ranges.tsv`,
+  2. Each `vocabulary_id` maps to exactly one `term`.
+  3. For any TSV located under a folder named after a category in `id_ranges.tsv`,
      the numeric part of each `vocabulary_id` (prefix stripped) falls within
      the specified `lower_bound` and `upper_bound` for that category.
 
-Exits with status code 1 if any checks fail, otherwise prints success message.
+Exits with status code 1 if any checks fail, otherwise prints a success message.
 """
 import argparse
 import csv
@@ -42,7 +43,7 @@ def parse_id_ranges(path):
                 upper = int(row['upper_bound'])
             except ValueError:
                 print(
-                    f"Invalid bounds for category '{category}': ``{row['lower_bound']}``-``{row['upper_bound']}``",
+                    f"Invalid bounds for category '{category}': ``{row['lower_bound']}``-``{row['upper_bound']}``,",
                     file=sys.stderr,
                 )
                 continue
@@ -80,17 +81,16 @@ def main():
     # Regex to match ONVOC: followed by exactly 7 digits
     vocab_pattern = re.compile(r"^ONVOC:(\d{7})$")
 
-    # Track mapping of term -> set of vocabulary_ids
+    # Track mappings
     term_to_ids = {}
+    id_to_terms = {}
 
-    # Flag to indicate any errors found
     errors_found = False
 
     # Process each TSV file
     for tsv_path in find_tsv_files(args.target_dir):
-        # Determine which categories apply based on ancestor folder names
         ancestors = os.path.normpath(tsv_path).split(os.sep)
-        applicable_cats = set(c for c in ancestors if c in id_ranges)
+        applicable_cats = {c for c in ancestors if c in id_ranges}
 
         with open(tsv_path, newline='') as fh:
             reader = csv.DictReader(fh, delimiter='\t')
@@ -108,7 +108,6 @@ def main():
                     errors_found = True
                     continue
 
-                # Extract numeric part
                 num_id = int(m.group(1))
 
                 # Check bounds for each applicable category
@@ -122,14 +121,24 @@ def main():
                         )
                         errors_found = True
 
-                # Record term<->id mapping
+                # Record mappings
                 term_to_ids.setdefault(term, set()).add(vid)
+                id_to_terms.setdefault(vid, set()).add(term)
 
     # Ensure each term maps to exactly one vocabulary_id
     for term, vids in sorted(term_to_ids.items()):
         if len(vids) != 1:
             print(
                 f"Term '{term}' has multiple vocabulary_ids: {sorted(vids)}",
+                file=sys.stderr,
+            )
+            errors_found = True
+
+    # Ensure each vocabulary_id maps to exactly one term
+    for vid, terms in sorted(id_to_terms.items()):
+        if len(terms) != 1:
+            print(
+                f"Vocabulary_id '{vid}' maps to multiple terms: {sorted(terms)}",
                 file=sys.stderr,
             )
             errors_found = True
