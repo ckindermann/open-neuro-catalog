@@ -1,0 +1,5 @@
+term	vocabulary_id	mapping_id	comment
+Normal Hearing	ONVOC:0005025	SNOMED:162339002	exact match
+Normal Vision	ONVOC:0005026	SNOMED:45089002	exact match
+Hearing Loss	ONVOC:0005027	MESH:D034381	exact match
+Impaired Vision	ONVOC:0005028	MESH:D015354	exact match
