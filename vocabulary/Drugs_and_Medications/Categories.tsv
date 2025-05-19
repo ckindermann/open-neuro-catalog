@@ -1,0 +1,16 @@
+term	vocabulary_id	mapping_id	comment
+Antidepressants	ONVOC:0002001		
+ADHD_Medications_Nonstimulants	ONVOC:0002017		
+Anesthetics	ONVOC:0002023		
+Anti_Inflammatory	ONVOC:0002030		
+Anti_Psychotics	ONVOC:0002046		
+Anxiolytics	ONVOC:0002062		
+Cannabinoids	ONVOC:0002077		
+Contraception	ONVOC:0002084		
+Dementia_Medication	ONVOC:0002102		
+Migraine_Medication	ONVOC:0002108		
+Mood_Stabilizers	ONVOC:0002124		
+Opioids	ONVOC:0002135		
+Parkinsons_Disease_Medication	ONVOC:0002151		
+Psychedelics	ONVOC:0002167		
+Psychostimulants	ONVOC:0002185		
