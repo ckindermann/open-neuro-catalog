@@ -1,0 +1,19 @@
+Amygdala
+Caudate Nucleus
+Extended Amygdala
+Globus Pallidus External Segment
+Globus Pallidus Internal Segment
+Habenular Nucleus
+Hippocampus
+Hypothalamus
+Mammillary Nucleus
+Nucleus Accumbens
+Parabrachial Pigmented Nucleus
+Putamen
+Red Nucleus
+Substantia Nigra Pars Compacta
+Substantia Nigra Pars Reticulata
+Subthalamic Nucleus
+Thalamus
+Ventral Pallidum
+Ventral Tegmental Area
