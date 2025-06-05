@@ -1,8 +1,0 @@
-category	lower_bound	upper_bound	next_id
-Categories	0	0	1
-Disorders	1	999	55
-Symptoms	1000	1999	
-Drugs_and_Medications	2000	2999	2185
-Brain_Regions	3000	3999	95
-Free	4000	4999	
-Miscellaneous	5000	5999	33
