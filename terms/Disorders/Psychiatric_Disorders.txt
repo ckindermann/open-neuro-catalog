@@ -3,6 +3,7 @@ Phobia
 Panic Disorder
 Major Depressive Disorder
 Bipolar Disorder
+Borderline Personality Disorder
 Attention-Deficit Hyperactivity Disorder
 Post-Traumatic Stress Disorder
 Obsessive-Compulsive Disorder
@@ -11,3 +12,7 @@ Personality Disorders
 Autism Spectrum Disorder
 Substance Use Disorders
 Schizophrenia
+Developmental Disorder
+Psychotic Disorder
+Affective Psychotic Disorder
+Claustrophobia

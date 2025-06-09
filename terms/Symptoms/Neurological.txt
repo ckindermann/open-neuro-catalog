@@ -8,7 +8,6 @@ Paresthesia
 Muscle Weakness
 Memory Problems
 Sleep Disturbances
-Vision
 Gait Disturbances
 Balance Problems
 Speech Difficulties
@@ -18,12 +17,10 @@ Tremors
 Seizures
 Stiffness
 Rigidity
-Sensation
 Swallowing Difficulties
 Dysphagia
 Bowel Dysfunction
 Bladder Dysfunction
-Coordination
 Loss of Smell (Anosmia) or Taste (Ageusia)
 Tics
 Tinnitus
