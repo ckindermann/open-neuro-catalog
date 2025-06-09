@@ -265,8 +265,8 @@ def main():
     )
     parser.add_argument(
         "--prefix",
-        default="CV",
-        help="Prefix used in vocabulary_id (default: CV)."
+        default="ONVOC",
+        help="Prefix used in vocabulary_id (default: ONVOC)."
     )
     args = parser.parse_args()
 
