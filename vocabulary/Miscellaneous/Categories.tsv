@@ -1,7 +1,0 @@
-term	vocabulary_id	mapping_id	comment
-Behaviors	ONVOC:0005001	MESH:D001519	exact match
-Handedness	ONVOC:0005002	SNOMED:364940007	exact match
-Physiological_Phenomena	ONVOC:0005003	MESH:D010829	exact match
-Age	ONVOC:0005010	SNOMED:133936004	exact match
-Perception	ONVOC:0005024		
-Education_Level	ONVOC:0005031		
