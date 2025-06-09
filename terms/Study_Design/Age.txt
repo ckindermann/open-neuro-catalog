@@ -1,0 +1,6 @@
+Adult
+Elderly
+Minor
+Adolesce
+Child
+Infant
