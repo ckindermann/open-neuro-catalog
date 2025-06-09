@@ -156,8 +156,8 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--prefix",
-        default="CV",
-        help="Prefix to use for generating vocabulary_id (default: CV)."
+        default="ONVOC",
+        help="Prefix to use for generating vocabulary_id (default: ONVOC)."
     )
     args = parser.parse_args()
 
