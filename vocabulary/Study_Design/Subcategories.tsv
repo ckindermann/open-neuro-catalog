@@ -1,11 +1,12 @@
 term	vocabulary_id	comment
 Age	ONVOC:0000343	
-Education Level	ONVOC:0000344	
-Ethnicity	ONVOC:0000345	
-Handedness	ONVOC:0000346	
-Health	ONVOC:0000347	
-Intelligence	ONVOC:0000348	
-Racial Groups	ONVOC:0000349	
-Sex	ONVOC:0000350	
-Study Type	ONVOC:0000351	
-Weight	ONVOC:0000352	
+Behaviors	ONVOC:0000344	
+Education Levels	ONVOC:0000345	
+Ethnicities	ONVOC:0000346	
+Handedness	ONVOC:0000347	
+Health	ONVOC:0000348	
+Intelligence	ONVOC:0000349	
+Racial Groups	ONVOC:0000350	
+Sex	ONVOC:0000351	
+Study Types	ONVOC:0000352	
+Weight	ONVOC:0000353	
