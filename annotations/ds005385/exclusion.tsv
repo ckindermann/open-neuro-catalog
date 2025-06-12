@@ -1,12 +1,12 @@
 term	vocabulary_id
-Disorders	ONVOC:0000001
-Neurological_Disorders	ONVOC:0000003
-Psychiatric_Disorders	ONVOC:0000004
-Parkinson's Disease	ONVOC:0000014
-Dementia	ONVOC:0000053
-Stroke	ONVOC:0000011
-Cardiovascular Disease	ONVOC:0000054
-Cancer	ONVOC:0000042
-Affective Psychotic Disorder	ONVOC:0000034
-Head Injury	ONVOC:0005006
-Drug Use	ONVOC:0005004
+Disorders	ONVOC:0000002
+Neurological Disorders	ONVOC:0000102
+Psychiatric Disorders	ONVOC:0000103
+Parkinson's Disease	ONVOC:0000123
+Dementia	ONVOC:0000135
+Stroke	ONVOC:0000120
+Cardiovascular Disease	ONVOC:0000117
+Cancer	ONVOC:0000116
+Affective Psychotic Disorder	ONVOC:0000152
+Head Injury	ONVOC:0000372
+Drug Use	ONVOC:0000360

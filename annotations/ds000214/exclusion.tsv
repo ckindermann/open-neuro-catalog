@@ -1,5 +1,5 @@
 term	vocabulary_id
-Pregnancy	ONVOC:0004001
-Drug Use	ONVOC:0006001
-Psychiatric Disorder	ONVOC:0002003
-Head Injury	ONVOC:0004002
+Pregnancy	ONVOC:0000377
+Drug Use	ONVOC:0000360
+Psychiatric Disorders	ONVOC:0000103
+Head Injury	ONVOC:0000372

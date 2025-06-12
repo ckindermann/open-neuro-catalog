@@ -1,5 +1,5 @@
 term	vocabulary_id
-Neurological_Disorders	ONVOC:0000003
-Psychiatric_Disorders	ONVOC:0000004
-Pregnancy	ONVOC:0005005
-Drug Use	ONVOC:0005004
+Neurological Disorders	ONVOC:0000102
+Psychiatric Disorders	ONVOC:0000103
+Pregnancy	ONVOC:0000377
+Drug Use	ONVOC:0000360

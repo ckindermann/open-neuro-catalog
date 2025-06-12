@@ -1,9 +1,8 @@
 term	vocabulary_id
-Neurological Disorders	ONVOC:0000003
-Psychiatric Disorders	ONVOC:0000004
-Hearing Loss	ONVOC:0005027
-Impaired Vision	ONVOC:0005028
-Brain Injury	ONVOC:0005029
-Drug Use	ONVOC:0005004
-Addiction	ONVOC:0005032
-Color Blindness	ONVOC:0005033
+Neurological Disorders	ONVOC:0000102
+Psychiatric Disorders	ONVOC:0000103
+Hearing Loss	ONVOC:0000337
+Impaired Vision	ONVOC:0000341
+Brain Injury	ONVOC:0000373
+Drug Use	ONVOC:0000360
+Color Blindness	ONVOC:0000342

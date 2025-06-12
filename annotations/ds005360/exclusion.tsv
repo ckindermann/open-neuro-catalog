@@ -1,9 +1,9 @@
 term	vocabulary_id
-Elderly	ONVOC:0005012
-Minor	ONVOC:0005013
-Contraception	ONVOC:0002084
-Hearing Loss	ONVOC:0005027
-Claustrophobia	ONVOC:0000052
-Medical_Disorders	ONVOC:0000002
-Neurological_Disorders	ONVOC:0000003
-Psychiatric_Disorders	ONVOC:0000004
+Elderly	ONVOC:0000355
+Minor	ONVOC:0000356
+Contraception	ONVOC:0000161
+Hearing Loss	ONVOC:0000337
+Claustrophobia	ONVOC:0000153
+Medical Disorders	ONVOC:0000101
+Neurological Disorders	ONVOC:0000102
+Psychiatric Disorders	ONVOC:0000103
