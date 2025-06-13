@@ -1,0 +1,14 @@
+Sibling
+Parent
+Child
+Cousin
+Grandparent
+Aunt
+Uncle
+Niece
+Nephew
+Grandchild
+Spouse
+Father
+Mother
+Adopted Child
