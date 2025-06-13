@@ -1,0 +1,15 @@
+term	vocabulary_id	comment
+Sibling	ONVOC:0000500	
+Parent	ONVOC:0000501	
+Child	ONVOC:0000502	
+Cousin	ONVOC:0000503	
+Grandparent	ONVOC:0000504	
+Aunt	ONVOC:0000505	
+Uncle	ONVOC:0000506	
+Niece	ONVOC:0000507	
+Nephew	ONVOC:0000508	
+Grandchild	ONVOC:0000509	
+Spouse	ONVOC:0000510	
+Father	ONVOC:0000511	
+Mother	ONVOC:0000512	
+Adopted Child	ONVOC:0000513	
