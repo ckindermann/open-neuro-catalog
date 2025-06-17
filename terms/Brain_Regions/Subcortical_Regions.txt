@@ -1,5 +1,6 @@
 Amygdala
 Caudate Nucleus
+Cerebellum
 Extended Amygdala
 Globus Pallidus External Segment
 Globus Pallidus Internal Segment
