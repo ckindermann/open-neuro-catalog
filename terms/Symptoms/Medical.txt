@@ -11,7 +11,6 @@ Dizziness
 Lightheadedness
 Sleep Disturbances
 Appetite
-Weight
 Skin Rashes
 Skin Irritation
 Swelling
@@ -25,4 +24,3 @@ Back Pain
 Joint Pain
 Joint Stiffness
 Swollen Lymph Nodes
-Vision
