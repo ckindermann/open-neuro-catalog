@@ -1,0 +1,8 @@
+Default mode network
+Salience network
+Dorsal attention network
+Frontoparietal network
+Sensorimotor network
+Visual cortex
+Limbic network
+Central executive network
