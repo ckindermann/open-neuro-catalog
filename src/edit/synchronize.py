@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
 """
-Synchronize an original controlled vocabulary (using .txt files) with its ID-enhanced copy
-(using .tsv files). Ensures that:
-  1. Any new categories (folders) in the original are added to the copy (Categories.tsv,
+Synchronize a set of terms (using .txt files) with its controlled vocabulary (using .tsv files).
+This ensures that:
+  1. Any new categories (folders) in the set of terms are added to the vocabulary (Categories.tsv,
      category folder, and Subcategories.tsv).
-  2. Any new subcategories (.txt files) under a category are added to the copy
+  2. Any new subcategories (.txt files) under a category are added to the vocabulary
      (Subcategories.tsv and an empty <subcat>.tsv in the category folder).
   3. Any terms in the original .txt files missing from the corresponding .tsv files in the
      copy are added with a new, unique vocabulary_id.
      
 Usage:
     python3 sync_cv_full_structure.py \
-        --original /path/to/original_controlled_vocabulary \
-        --copy /path/to/copy_with_ids \
+        --terms /path/to/terms \
+        --vocabulary /path/to/vocabulary \
         --prefix CV
 
 Assumptions:
   - Original structure:
-        original_root/
+        terms/
         ├── Category_A/
         │   ├── Subcat_One.txt
         │   └── Subcat_Two.txt
@@ -27,7 +27,7 @@ Assumptions:
     Each “.txt” contains one term per line.
 
   - Copy structure (already has IDs):
-        copy_root/
+        vocabulary/
         ├── Categories.tsv
         ├── Category_A/
         │   ├── Subcategories.tsv
@@ -43,7 +43,7 @@ Assumptions:
 
   - Terms in .tsv are in column “term” and IDs in “vocabulary_id”.
   - IDs follow the format PREFIX:XXXXXXX (7-digit zero-padded). New IDs are allocated
-    incrementally beyond the highest existing numeric part in copy_root.
+    incrementally beyond the highest existing numeric part in vocabulary.
 """
 
 import os
@@ -100,14 +100,14 @@ def load_term_id_map(tsv_path: str) -> dict[str, str]:
                 term_to_id[term] = vid
     return term_to_id
 
-def load_existing_id_counter(copy_root: str, prefix: str) -> int:
+def load_existing_id_counter(vocabulary: str, prefix: str) -> int:
     """
-    Traverse all *.tsv files under copy_root and gather existing vocabulary_id values
+    Traverse all *.tsv files under vocabulary and gather existing vocabulary_id values
     of the form PREFIX:XXXXXXX. Return the maximum numeric value found (or 0 if none).
     """
     max_num = 0
     id_pattern = re.compile(rf"^{re.escape(prefix)}:(\d{{7}})$")
-    for dirpath, _, filenames in os.walk(copy_root):
+    for dirpath, _, filenames in os.walk(vocabulary):
         for fname in filenames:
             if not fname.lower().endswith(".tsv"):
                 continue
@@ -133,19 +133,19 @@ def load_existing_id_counter(copy_root: str, prefix: str) -> int:
                             max_num = num
     return max_num
 
-def sync_full_structure(original_root: str, copy_root: str, prefix: str):
+def sync_full_structure(terms: str, vocabulary: str, prefix: str):
     """
-    Ensure that every category, subcategory, and term in original_root appears in copy_root.
+    Ensure that every category, subcategory, and term in terms appears in vocabulary.
     - New categories: create folder, update Categories.tsv.
     - New subcategories: create/update Subcategories.tsv in category folder.
     - New terms: append to the correct <subcat>.tsv with a new ID.
     """
     # Step 1: Determine starting ID counter
-    max_existing_id = load_existing_id_counter(copy_root, prefix)
+    max_existing_id = load_existing_id_counter(vocabulary, prefix)
     next_id_num = max_existing_id + 1
 
     # Step 2: Load existing categories from copy Root/Categories.tsv
-    categories_tsv_path = os.path.join(copy_root, "Categories.tsv")
+    categories_tsv_path = os.path.join(vocabulary, "Categories.tsv")
     category_to_id: dict[str, str] = {}
     if os.path.isfile(categories_tsv_path):
         category_to_id = load_term_id_map(categories_tsv_path)
@@ -157,18 +157,18 @@ def sync_full_structure(original_root: str, copy_root: str, prefix: str):
     subcategory_to_id: dict[str, dict[str, str]] = {}  # { category_term: { subcat_term: id, ... } }
     for category_term, _ in category_to_id.items():
         category_folder = category_term.replace(" ", "_")
-        subcats_tsv = os.path.join(copy_root, category_folder, "Subcategories.tsv")
+        subcats_tsv = os.path.join(vocabulary, category_folder, "Subcategories.tsv")
         sub_map = load_term_id_map(subcats_tsv)
         subcategory_to_id[category_term] = sub_map
 
     # Step 4: Traverse original categories
-    for category_folder in sorted(os.listdir(original_root)):
-        orig_cat_dir = os.path.join(original_root, category_folder)
+    for category_folder in sorted(os.listdir(terms)):
+        orig_cat_dir = os.path.join(terms, category_folder)
         if not os.path.isdir(orig_cat_dir):
             continue
 
         category_term = category_folder.replace("_", " ")
-        # 4a: If category not in copy, add it
+        # 4a: If category not in vocabulary, add it
         if category_term not in category_to_id:
             new_id = f"{prefix}:{next_id_num:07d}"
             next_id_num += 1
@@ -177,13 +177,13 @@ def sync_full_structure(original_root: str, copy_root: str, prefix: str):
             print(f"Added new category '{category_term}' with ID {new_id} to {categories_tsv_path}")
 
             # Create the category folder and an empty Subcategories.tsv
-            copy_cat_dir = os.path.join(copy_root, category_folder)
+            copy_cat_dir = os.path.join(vocabulary, category_folder)
             ensure_dir(copy_cat_dir)
             subcats_tsv = os.path.join(copy_cat_dir, "Subcategories.tsv")
             append_rows_to_tsv(subcats_tsv, [], ["term", "vocabulary_id", "comment"])
             subcategory_to_id[category_term] = {}
         else:
-            copy_cat_dir = os.path.join(copy_root, category_folder)
+            copy_cat_dir = os.path.join(vocabulary, category_folder)
             # Ensure folder exists
             ensure_dir(copy_cat_dir)
             # Ensure Subcategories.tsv exists
@@ -200,7 +200,7 @@ def sync_full_structure(original_root: str, copy_root: str, prefix: str):
                 continue
             subcat_folder_name = os.path.splitext(fname)[0]  # e.g. "Subcat_One"
             subcat_term = subcat_folder_name.replace("_", " ")
-            copy_cat_dir = os.path.join(copy_root, category_folder)
+            copy_cat_dir = os.path.join(vocabulary, category_folder)
             subcats_tsv = os.path.join(copy_cat_dir, "Subcategories.tsv")
 
             # If subcategory not in copy's Subcategories.tsv, add it
@@ -250,18 +250,18 @@ def sync_full_structure(original_root: str, copy_root: str, prefix: str):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Ensure every category, subcategory, and term in the original .txt vocabulary "
-                    "is present in the copy .tsv structure; add missing items with new IDs."
+        description="Ensure every category, subcategory, and term in the set of terms .txt "
+                    "is present in the vocabulary .tsv structure; add missing items with new IDs."
     )
     parser.add_argument(
-        "--original",
+        "--terms",
         required=True,
-        help="Path to the root folder of the original controlled vocabulary (with .txt files)."
+        help="Path to the root folder of the set of terms (.txt files)."
     )
     parser.add_argument(
-        "--copy",
+        "--vocabulary",
         required=True,
-        help="Path to the root folder of the copy (with .tsv files and IDs)."
+        help="Path to the root folder of the vocabulary (with .tsv files and IDs)."
     )
     parser.add_argument(
         "--prefix",
@@ -270,17 +270,17 @@ def main():
     )
     args = parser.parse_args()
 
-    orig = os.path.abspath(args.original)
-    copy = os.path.abspath(args.copy)
+    orig = os.path.abspath(args.terms)
+    vocabulary = os.path.abspath(args.vocabulary)
 
     if not os.path.isdir(orig):
-        print(f"ERROR: Original path '{orig}' is not a directory or does not exist.", file=sys.stderr)
+        print(f"ERROR: Term path '{orig}' is not a directory or does not exist.", file=sys.stderr)
         sys.exit(1)
-    if not os.path.isdir(copy):
-        print(f"ERROR: Copy path '{copy}' is not a directory or does not exist.", file=sys.stderr)
+    if not os.path.isdir(vocabulary):
+        print(f"ERROR: Vocabulary path '{vocabulary}' is not a directory or does not exist.", file=sys.stderr)
         sys.exit(1)
 
-    sync_full_structure(orig, copy, args.prefix)
+    sync_full_structure(orig, vocabulary, args.prefix)
 
 if __name__ == "__main__":
     main()
