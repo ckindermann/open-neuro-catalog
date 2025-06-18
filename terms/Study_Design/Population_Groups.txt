@@ -1,0 +1,16 @@
+Asian
+African
+African American
+Black
+Australian
+European
+Middle Eastern
+North American
+Pacific Islander
+Native Hawaiian
+South American
+White
+Indian
+Alaskan Native
+East Asian
+Southeast Asian
