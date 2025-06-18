@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """
 Validate one-to-one correspondence between terms and vocabulary IDs across all TSV files
-under a given root directory. Every term should map to exactly one ID, and every ID should
+under a given vocabulary directory. Every term should map to exactly one ID, and every ID should
 map to exactly one term.
 
 Conventions:
   - All TSV files have a header row with columns: term, vocabulary_id, mapping_id, comment
   - Terms appear in the first column, IDs in the second column.
-  - We scan all files ending in “.tsv” recursively under the specified root.
+  - We scan all files ending in “.tsv” recursively under the specified vocabulary.
 
 Usage:
-    python3 check_term_id_uniqueness.py --root /path/to/tsv_root
+    python3 check_term_id_uniqueness.py --vocabulary /path/to/tsv_vocabulary
 """
 
 import os
@@ -18,9 +18,9 @@ import csv
 import argparse
 import sys
 
-def collect_term_id_pairs(root_dir: str):
+def collect_term_id_pairs(vocabulary_dir: str):
     """
-    Traverse root_dir recursively and collect all (term, vocabulary_id) pairs
+    Traverse vocabulary_dir recursively and collect all (term, vocabulary_id) pairs
     from every *.tsv file found. Returns two dicts:
       - term_to_ids: { term_str: set([id1, id2, ...]) }
       - id_to_terms: { id_str: set([term1, term2, ...]) }
@@ -28,7 +28,7 @@ def collect_term_id_pairs(root_dir: str):
     term_to_ids = {}
     id_to_terms = {}
 
-    for dirpath, _, filenames in os.walk(root_dir):
+    for dirpath, _, filenames in os.walk(vocabulary_dir):
         for fname in filenames:
             if not fname.lower().endswith(".tsv"):
                 continue
@@ -63,8 +63,8 @@ def collect_term_id_pairs(root_dir: str):
     return term_to_ids, id_to_terms
 
 
-def main(root: str):
-    term_to_ids, id_to_terms = collect_term_id_pairs(root)
+def main(vocabulary: str):
+    term_to_ids, id_to_terms = collect_term_id_pairs(vocabulary)
     violations = False
 
     # Check for terms that map to multiple IDs
@@ -91,14 +91,14 @@ if __name__ == "__main__":
                     "every vocabulary_id maps to exactly one term."
     )
     parser.add_argument(
-        "--root",
+        "--vocabulary",
         required=True,
         help="Root directory containing TSV files to validate."
     )
     args = parser.parse_args()
 
-    if not os.path.isdir(args.root):
-        print(f"ERROR: “{args.root}” is not a directory or does not exist.", file=sys.stderr)
+    if not os.path.isdir(args.vocabulary):
+        print(f"ERROR: “{args.vocabulary}” is not a directory or does not exist.", file=sys.stderr)
         sys.exit(1)
 
-    main(args.root)
+    main(args.vocabulary)
