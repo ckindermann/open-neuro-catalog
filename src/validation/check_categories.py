@@ -5,7 +5,7 @@ folder or .tsv file in the target directory, and vice versa. Ensures all require
 exist in the correct locations.
 
 Usage:
-    python3 check_cv_structure.py --root /path/to/tsv_root
+    python3 check_cv_structure.py --vocabulary /path/to/tsv_vocabulary
 """
 
 import os
@@ -35,13 +35,13 @@ def load_terms_from_tsv(tsv_path, term_column_name="term"):
                     terms.append(term)
     return terms
 
-def validate_structure(root):
+def validate_structure(vocabulary):
     errors = []
 
-    # 1) Check that Categories.tsv exists at root
-    categories_tsv = os.path.join(root, "Categories.tsv")
+    # 1) Check that Categories.tsv exists at vocabulary
+    categories_tsv = os.path.join(vocabulary, "Categories.tsv")
     if not os.path.isfile(categories_tsv):
-        errors.append(f"Missing Categories.tsv in root: {root}")
+        errors.append(f"Missing Categories.tsv in vocabulary: {vocabulary}")
         return errors  # cannot proceed further without Categories.tsv
 
     # 2) Load category terms from Categories.tsv
@@ -50,23 +50,23 @@ def validate_structure(root):
     # 3) Build expected folder names from category terms (spaces → underscores)
     expected_folders = {term.replace(" ", "_") for term in category_terms}
 
-    # 4) List actual folders at root (ignore files)
-    actual_items = os.listdir(root)
-    actual_folders = {name for name in actual_items if os.path.isdir(os.path.join(root, name))}
+    # 4) List actual folders at vocabulary (ignore files)
+    actual_items = os.listdir(vocabulary)
+    actual_folders = {name for name in actual_items if os.path.isdir(os.path.join(vocabulary, name))}
 
     # 5) Check that every expected folder exists
     for folder in sorted(expected_folders):
         if folder not in actual_folders:
             errors.append(f"Category listed in Categories.tsv not found as folder: '{folder}'")
 
-    # 6) Check that every folder under root is listed in Categories.tsv
+    # 6) Check that every folder under vocabulary is listed in Categories.tsv
     for folder in sorted(actual_folders):
         if folder not in expected_folders:
-            errors.append(f"Extra folder under root not in Categories.tsv: '{folder}'")
+            errors.append(f"Extra folder under vocabulary not in Categories.tsv: '{folder}'")
 
     # 7) For each category folder, validate Subcategories.tsv and .tsv files
     for category in sorted(expected_folders.intersection(actual_folders)):
-        cat_dir = os.path.join(root, category)
+        cat_dir = os.path.join(vocabulary, category)
 
         # a) Check Subcategories.tsv exists
         subcats_tsv = os.path.join(cat_dir, "Subcategories.tsv")
@@ -104,18 +104,18 @@ def main():
         description="Check that Categories.tsv and Subcategories.tsv terms correspond to folders and .tsv files."
     )
     parser.add_argument(
-        "--root",
+        "--vocabulary",
         required=True,
-        help="Path to the root directory containing Categories.tsv and category folders."
+        help="Path to the vocabulary directory containing Categories.tsv and category folders."
     )
     args = parser.parse_args()
 
-    root = os.path.abspath(args.root)
-    if not os.path.isdir(root):
-        print(f"ERROR: “{root}” is not a directory or does not exist.", file=sys.stderr)
+    vocabulary = os.path.abspath(args.vocabulary)
+    if not os.path.isdir(vocabulary):
+        print(f"ERROR: “{vocabulary}” is not a directory or does not exist.", file=sys.stderr)
         sys.exit(1)
 
-    errors = validate_structure(root)
+    errors = validate_structure(vocabulary)
     if errors:
         print("Validation errors found:")
         for e in errors:
