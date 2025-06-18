@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Validate folder and file naming conventions under a given root directory.
+Validate folder and file naming conventions under a given vocabulary directory.
 
 Conventions:
   - Names must not contain whitespace.
@@ -12,7 +12,7 @@ Conventions:
   - File extensions (e.g. .txt, .tsv) are allowed but everything before the first dot must follow the above rules.
 
 Usage:
-    python3 check_naming_conventions.py --root /path/to/Controlled_Vocabulary
+    python3 check_naming_conventions.py --vocabulary /path/to/Controlled_Vocabulary
 """
 
 import os
@@ -79,15 +79,15 @@ def validate_name(name: str, is_file: bool=False) -> list[str]:
                     errors.append(f"invalid segment '{seg}'")
     return errors
 
-def main(root: str):
+def main(vocabulary: str):
     """
-    Walk through `root` recursively and validate every folder and file name.
+    Walk through `vocabulary` recursively and validate every folder and file name.
     Print any violations with their path and explanation.
     """
     violations_found = False
 
     # os.walk yields (dirpath, dirnames, filenames). We’ll check dirnames and filenames.
-    for dirpath, dirnames, filenames in os.walk(root):
+    for dirpath, dirnames, filenames in os.walk(vocabulary):
         # Check each subfolder name in dirnames
         for d in list(dirnames):  # list() to avoid modifying during iteration
             rel_path = os.path.join(dirpath, d)
@@ -115,14 +115,14 @@ if __name__ == "__main__":
         description="Check that folder and file names follow the specified naming conventions."
     )
     parser.add_argument(
-        "--root",
+        "--vocabulary",
         required=True,
         help="Root directory to validate."
     )
     args = parser.parse_args()
 
-    if not os.path.isdir(args.root):
-        print(f"ERROR: “{args.root}” is not a directory or does not exist.", file=sys.stderr)
+    if not os.path.isdir(args.vocabulary):
+        print(f"ERROR: “{args.vocabulary}” is not a directory or does not exist.", file=sys.stderr)
         sys.exit(1)
 
-    main(args.root)
+    main(args.vocabulary)
