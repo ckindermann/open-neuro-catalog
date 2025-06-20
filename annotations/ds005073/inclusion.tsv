@@ -1,4 +1,5 @@
 term	vocabulary_id
 Adult	ONVOC:0000354
-Normal Hearing	ONVOC:0000528
 Normal Vision	ONVOC:0000533
+Psychotic Disorder	ONVOC:0000151
+Bipolar Disorder	ONVOC:0000140
