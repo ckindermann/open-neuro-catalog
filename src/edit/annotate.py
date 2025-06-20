@@ -119,7 +119,7 @@ def main():
         for dirpath, _, filenames in os.walk(folder):
             for fname in filenames:
                 # skip already-annotated TSVs
-                if fname.lower().endswith(".tsv"):
+                if fname.lower().endswith(".tsv") or not fname.endswith(".txt"):
                     continue
                 file_path = os.path.join(dirpath, fname)
                 annotate_file(file_path, mapping)
