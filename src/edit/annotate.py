@@ -79,7 +79,7 @@ def annotate_file(file_path, mapping):
 
     # write TSV
     with open(out_path, "w", newline="", encoding="utf-8") as fp:
-        writer = csv.writer(fp, delimiter="\t")
+        writer = csv.writer(fp, delimiter="\t", lineterminator="\n")
         writer.writerow(["term", "vocabulary_id"])
         for term, vid in rows:
             writer.writerow([term, vid])
