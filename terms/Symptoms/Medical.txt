@@ -24,3 +24,4 @@ Back Pain
 Joint Pain
 Joint Stiffness
 Swollen Lymph Nodes
+Hypercapnia

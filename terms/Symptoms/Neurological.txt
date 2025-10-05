@@ -27,3 +27,4 @@ Tinnitus
 Scotoma
 Hemianopsia
 Hearing Loss
+Prosopagnosia
