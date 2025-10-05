@@ -2,3 +2,4 @@ prefix	base
 ONVOC	http://www.onvoc/test/alpha#ONVOC_
 MESH	http://purl.bioontology.org/ontology/MESH/
 DOID	http://purl.obolibrary.org/obo/DOID_
+MONDO	http://purl.obolibrary.org/obo/MONDO_
