@@ -2,7 +2,7 @@ term	vocabulary_id	comment
 Anxiety Disorders	ONVOC:0000136	
 Phobia	ONVOC:0000137	
 Panic Disorder	ONVOC:0000138	
-Major Depressive Disorder	ONVOC:0000139	
+Depressive Disorder	ONVOC:0000139	
 Bipolar Disorder	ONVOC:0000140	
 Borderline Personality Disorder	ONVOC:0000141	
 Attention-Deficit Hyperactivity Disorder	ONVOC:0000142	
@@ -17,3 +17,8 @@ Developmental Disorder	ONVOC:0000150
 Psychotic Disorder	ONVOC:0000151	
 Affective Psychotic Disorder	ONVOC:0000152	
 Claustrophobia	ONVOC:0000153	
+Alexithymia	ONVOC:0000599	
+Mood Dysregulation Disorder	ONVOC:0000600	
+Oppositional Defiant Disorder	ONVOC:0000601	
+Social Phobia	ONVOC:0000602	
+Grief Disorder	ONVOC:0000603	
