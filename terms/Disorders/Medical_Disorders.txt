@@ -1,9 +1,13 @@
+Amblyopia
+Aneurysm
+Brain Tumor
 Hypertension
 Hyperlipidemia
+Type 1 Diabetes Mellitus
 Type 2 Diabetes Mellitus
 Obesity
 Osteoarthritis
-Chronic Kidney Disease
+Kidney Disease
 Asthma
 Chronic Obstructive Pulmonary Disease
 Coronary Artery Disease
@@ -12,3 +16,14 @@ Hypothyroidism
 Anemia
 Cancer
 Cardiovascular Disease
+Chronic Fatigue Syndrome
+Color Blindness
+Hepatitis B Virus
+Hepatitis C Virus
+Human Immunodeficiency Virus
+Hyperthyroidism
+Hypothyroidism
+Liver Disease
+Sepsis
+Thyroiditis
+Tetralogy of Fallot

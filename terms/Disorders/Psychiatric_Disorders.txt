@@ -1,7 +1,7 @@
-Anxiety Disorders 
+Anxiety Disorders
 Phobia
 Panic Disorder
-Major Depressive Disorder
+Depressive Disorder
 Bipolar Disorder
 Borderline Personality Disorder
 Attention-Deficit Hyperactivity Disorder
@@ -15,4 +15,9 @@ Schizophrenia
 Developmental Disorder
 Psychotic Disorder
 Affective Psychotic Disorder
+Alexithymia
 Claustrophobia
+Mood Dysregulation Disorder
+Oppositional Defiant Disorder
+Social Phobia
+Grief Disorder

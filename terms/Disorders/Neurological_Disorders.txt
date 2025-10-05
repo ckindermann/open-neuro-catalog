@@ -16,3 +16,11 @@ Prosopagnosia
 Hyperalgesia
 Fibromyalgia
 Dementia
+Neurodegeneration
+Neuroinflammation
+Meningioma
+Pituitary Adenoma
+Palsiy
+Multiple Sclerosis
+Motor Neuron Disease
+Spinocerebellar Ataxia
