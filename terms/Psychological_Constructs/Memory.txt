@@ -1,25 +1,25 @@
 Memory
-Declarative_Memory
-Episodic_Memory
-Recognition_Memory
-Episodic_Simulation
+Declarative Memory
+Episodic Memory
+Recognition Memory
+Episodic Simulation
 Recall
 Recognition
-Autobiographical_Memory
+Autobiographical Memory
 Retrieval
 Remembering
-Semantic_Memory
-Semantic_Information
-Cognitive_Map
-Spatial_Memory
-Episodic_Future_Thinking
-Memory_Process
+Semantic Memory
+Semantic Information
+Cognitive Map
+Spatial Memory
+Episodic Future Thinking
+Memory Process
 Prospection
-Face_Perception
+Face Perception
 Familiarity
-Source_Memory
-Emotional_Memory
-Remote_Memory
+Source Memory
+Emotional Memory
+Remote Memory
 Navigation
 Encoding
-Encoding_Task
+Encoding Task

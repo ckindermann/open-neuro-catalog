@@ -1,16 +1,16 @@
-Semantic_Knowledge
-Semantic_Memory
-Episodic_Memory
-Semantic_Processing
+Semantic Knowledge
+Semantic Memory
+Episodic Memory
+Semantic Processing
 Memory
 Retrieval
-Semantic_Information
-Declarative_Memory
+Semantic Information
+Declarative Memory
 Imageability
-Autobiographical_Memory
+Autobiographical Memory
 Word
 Remembering
-Theory_Mind
-Recognition_Memory
+Theory Mind
+Recognition Memory
 Prospection
-Episodic_Simulation
+Episodic Simulation

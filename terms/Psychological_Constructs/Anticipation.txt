@@ -1,9 +1,9 @@
 Anticipation
-Painful_Stimulation
+Painful Stimulation
 Pain
 Heat
-Motor_Control
-Pain_Sensation
+Motor Control
+Pain Sensation
 Arousal
 Reward
 Nociception

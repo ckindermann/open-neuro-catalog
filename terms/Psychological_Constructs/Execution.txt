@@ -1,7 +1,7 @@
-Motor_Control
+Motor Control
 Movement
 Execution
-Motor_Learning
+Motor Learning
 Coordination
-Motor_Sequence_Learning
+Motor Sequence Learning
 Arm

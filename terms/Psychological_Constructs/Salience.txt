@@ -1,23 +1,23 @@
 Reward
-Reward_Processing
-Reward_Anticipation
+Reward Processing
+Reward Anticipation
 Valence
-Decision_Making
-Autobiographical_Memory
+Decision Making
+Autobiographical Memory
 Arousal
 Emotion
-Reward_Learning
+Reward Learning
 Anticipation
-Episodic_Simulation
+Episodic Simulation
 Salience
 Taste
 Mood
 Prospection
-Negative_Emotion
+Negative Emotion
 Expectancy
 Addiction
-Social_Cognition
-Theory_Mind
+Social Cognition
+Theory Mind
 Food
-Intertemporal_Choice
-Episodic_Future_Thinking
+Intertemporal Choice
+Episodic Future Thinking

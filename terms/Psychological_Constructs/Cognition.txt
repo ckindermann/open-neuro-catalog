@@ -1,25 +1,25 @@
 Arousal
 Monitoring
-Decision_Making
+Decision Making
 Valence
 Anticipation
 Emotion
-Cognitive_Control
-Error_Detection
+Cognitive Control
+Error Detection
 Salience
-Cognitive_Process
+Cognitive Process
 Reward
 Context
 Strategy
-Reaction_Time
+Reaction Time
 Disgust
 Interoception
 Pain
 Empathy
 Expectancy
-Response_Selection
+Response Selection
 Cognitive
 Manipulation
-Response_Inhibition
-Working_Memory
+Response Inhibition
+Working Memory
 Decision

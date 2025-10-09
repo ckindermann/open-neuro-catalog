@@ -1,18 +1,18 @@
 Execution
 Hand
 Movement
-Motor_Control
+Motor Control
 Monitoring
 Preparation
-Motor_Planning
-Response_Selection
+Motor Planning
+Response Selection
 Action
-Working_Memory
+Working Memory
 Rehearsal
 Arm
 Manipulation
 Planning
-Motor_Program
+Motor Program
 Grasping
 Attention
 Grasp

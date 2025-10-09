@@ -1,5 +1,5 @@
 Word
-Semantic_Processing
+Semantic Processing
 Naming
 Familiarity
 Recognition
@@ -7,19 +7,19 @@ Reading
 Language
 Retrieval
 Semantics
-Face_Perception
+Face Perception
 Phonology
 Pseudowords
-Semantic_Knowledge
-Word_Recognition
-Semantic_Information
+Semantic Knowledge
+Word Recognition
+Semantic Information
 Meaning
 Lexicon
-Object_Recognition
+Object Recognition
 Picture
-Visual_Word_Recognition
+Visual Word Recognition
 Orthography
-Language_Processing
-Phonological_Processing
+Language Processing
+Phonological Processing
 Memory
-Visual_Object
+Visual Object

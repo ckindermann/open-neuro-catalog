@@ -1,6 +1,6 @@
-Motor_Learning
-Motor_Control
+Motor Learning
+Motor Control
 Vection
 Movement
-Autonomic_Nervous_System_Function
+Autonomic Nervous System Function
 Execution

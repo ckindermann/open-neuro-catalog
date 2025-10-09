@@ -1,25 +1,25 @@
 Speech
 Language
-Language_Processing
-Speech_Processing
-Speech_Perception
+Language Processing
+Speech Processing
+Speech Perception
 Listening
 Hearing
-Semantic_Processing
-Language_Comprehension
+Semantic Processing
+Language Comprehension
 Semantics
 Word
 Syllable
-Sentence_Processing
-Sentence_Comprehension
+Sentence Processing
+Sentence Comprehension
 Meaning
 Syntax
-Semantic_Information
+Semantic Information
 Prosody
 Narrative
 Phonology
-Speech_Production
-Theory_Mind
-Passive_Listening
-Syntactic_Processing
-Auditory_Perception
+Speech Production
+Theory Mind
+Passive Listening
+Syntactic Processing
+Auditory Perception

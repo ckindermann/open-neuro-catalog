@@ -1,12 +1,12 @@
 Reward
-Reward_Processing
-Reward_Anticipation
-Monetary_Incentive_Delay_Task
+Reward Processing
+Reward Anticipation
+Monetary Incentive Delay Task
 Anticipation
-Instrumental_Conditioning
-Reinforcement_Learning
+Instrumental Conditioning
+Reinforcement Learning
 Feedback
-Reward_Learning
-Decision_Making
+Reward Learning
+Decision Making
 Expectancy
-Habit_Learning
+Habit Learning

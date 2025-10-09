@@ -1,22 +1,22 @@
 Emotion
 Fear
-Facial_Expression
+Facial Expression
 Valence
 Arousal
 Face
-Emotional_Expression
+Emotional Expression
 Anger
-Negative_Emotion
+Negative Emotion
 Disgust
 Anxiety
-International_Affective_Picture_System
+International Affective Picture System
 Sadness
 Extinction
-Emotional_Memory
+Emotional Memory
 Picture
 Happiness
 Olfaction
-Emotion_Regulation
-Emotion_Perception
-Explicit_Knowledge
-Affective_Picture
+Emotion Regulation
+Emotion Perception
+Explicit Knowledge
+Affective Picture

@@ -1,16 +1,16 @@
 Reward
-Reward_Processing
+Reward Processing
 Valence
-Decision_Making
+Decision Making
 Emotion
-Social_Cognition
-Reward_Anticipation
+Social Cognition
+Reward Anticipation
 Arousal
-Autobiographical_Memory
+Autobiographical Memory
 Anticipation
-Intertemporal_Choice
-Theory_Mind
+Intertemporal Choice
+Theory Mind
 Prospection
 Salience
 Mood
-Reward_Learning
+Reward Learning

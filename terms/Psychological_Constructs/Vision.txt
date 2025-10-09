@@ -1,25 +1,25 @@
 Manipulation
-Spatial_Attention
-Working_Memory
+Spatial Attention
+Working Memory
 Attention
-Reaction_Time
+Reaction Time
 Execution
-Visual_Attention
-Cognitive_Process
+Visual Attention
+Cognitive Process
 Retrieval
 Strategy
 Goal
 Covert
-Mental_Representation
-Visuospatial_Attention
+Mental Representation
+Visuospatial Attention
 Rehearsal
-Spatial_Working_Memory
+Spatial Working Memory
 Memory
 Action
 Vision
 Monitoring
 Eye
-Memory_Retrieval
+Memory Retrieval
 Intention
 Representation
 Grasping

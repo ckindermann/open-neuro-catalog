@@ -1,19 +1,19 @@
-Face_Perception
+Face Perception
 Vision
-Object_Recognition
+Object Recognition
 Recognition
 Face
-Visual_Perception
-Visual_Attention
-Visual_Angle
+Visual Perception
+Visual Attention
+Visual Angle
 Shape
 Perception
-Visual_Object
-Face_Recognition
+Visual Object
+Face Recognition
 Familiarity
 Eye
 Covert
-Spatial_Attention
+Spatial Attention
 Picture
-Visual_Motion
-Object_Perception
+Visual Motion
+Object Perception

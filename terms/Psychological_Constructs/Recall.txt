@@ -1,24 +1,24 @@
 Memory
-Episodic_Memory
-Declarative_Memory
-Recognition_Memory
+Episodic Memory
+Declarative Memory
+Recognition Memory
 Remembering
 Fear
 Emotion
 Encoding
-Emotional_Memory
+Emotional Memory
 Retrieval
 Recognition
 Valence
-Memory_Process
+Memory Process
 Recall
 Arousal
-Encoding_Task
-Facial_Expression
+Encoding Task
+Facial Expression
 Picture
 Forgetting
-Source_Memory
-Autobiographical_Memory
-Memory_Consolidation
+Source Memory
+Autobiographical Memory
+Memory Consolidation
 Face
-Episodic_Simulation
+Episodic Simulation

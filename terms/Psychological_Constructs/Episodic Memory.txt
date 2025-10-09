@@ -1,18 +1,18 @@
 Memory
-Episodic_Memory
+Episodic Memory
 Remembering
 Retrieval
-Memory_Retrieval
-Autobiographical_Memory
+Memory Retrieval
+Autobiographical Memory
 Recall
 Encoding
-Visual_Imagery
-Recognition_Memory
-Episodic_Simulation
+Visual Imagery
+Recognition Memory
+Episodic Simulation
 Navigation
 Prospection
-Source_Memory
-Spatial_Memory
+Source Memory
+Spatial Memory
 Familiarity
-Mental_Imagery
-Episodic_Future_Thinking
+Mental Imagery
+Episodic Future Thinking

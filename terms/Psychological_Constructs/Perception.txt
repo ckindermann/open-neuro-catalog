@@ -2,24 +2,24 @@ Hearing
 Listening
 Speech
 Tone
-Speech_Perception
-Speech_Processing
+Speech Perception
+Speech Processing
 Melody
 Music
-Passive_Listening
-Painful_Stimulation
+Passive Listening
+Painful Stimulation
 Pain
 Audition
-Auditory_Perception
-Speech_Production
+Auditory Perception
+Speech Production
 Perception
 Heat
 Multisensory
 Syllable
-Auditory_Feedback
-Motor_Control
+Auditory Feedback
+Motor Control
 Prosody
 Intonation
 Movement
-Tactile_Stimulation
-Pitch_Discrimination
+Tactile Stimulation
+Pitch Discrimination
