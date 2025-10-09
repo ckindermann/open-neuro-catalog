@@ -1,7 +1,25 @@
-Working Memory
-Short-Term Memory
-Long-Term Memory
-Declarative Memory
-Procedural Memory
-Episodic Memory
-Semantic Memory
+Memory
+Declarative_Memory
+Episodic_Memory
+Recognition_Memory
+Episodic_Simulation
+Recall
+Recognition
+Autobiographical_Memory
+Retrieval
+Remembering
+Semantic_Memory
+Semantic_Information
+Cognitive_Map
+Spatial_Memory
+Episodic_Future_Thinking
+Memory_Process
+Prospection
+Face_Perception
+Familiarity
+Source_Memory
+Emotional_Memory
+Remote_Memory
+Navigation
+Encoding
+Encoding_Task

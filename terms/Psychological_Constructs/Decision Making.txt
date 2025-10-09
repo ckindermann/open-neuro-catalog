@@ -1,0 +1,17 @@
+Reward
+Reward_Anticipation
+Reward_Processing
+Monetary_Incentive_Delay_Task
+Anticipation
+Reward_Learning
+Instrumental_Conditioning
+Reinforcement_Learning
+Loss_Anticipation
+Feedback
+Addiction
+Expectancy
+Gambling
+Decision_Making
+Wanting
+Loss
+Loss_Aversion

@@ -1,0 +1,9 @@
+Anticipation
+Painful_Stimulation
+Pain
+Heat
+Motor_Control
+Pain_Sensation
+Arousal
+Reward
+Nociception
