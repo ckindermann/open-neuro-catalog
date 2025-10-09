@@ -1,0 +1,8 @@
+Resting state - default mode
+Resting state - intrinsic connectivity
+Resting state - functional connectivity analysis
+Resting state - spontaneous activity
+Resting state - network dynamics
+Resting state - regional coherence
+Resting state - baseline activity
+Resting state - long-duration scans
