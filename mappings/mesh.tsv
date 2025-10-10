@@ -185,8 +185,8 @@ Longitudinal Study	ONVOC:0000386	Longitudinal Studies	MESH:D008137
 Longitudinal Study	ONVOC:0000386	Study, Longitudinal	MESH:D008137
 Loss of Smell (Anosmia) or Taste (Ageusia)	ONVOC:0000441	Anosmia	MESH:D000086582
 Lurasidone	ONVOC:0000199	Lurasidone	MESH:D000069056
-Major Depressive Disorder	ONVOC:0000139	Depressive Disorder	MESH:D003866
-Major Depressive Disorder	ONVOC:0000139	Depressive Disorder, Major	MESH:D003865
+Depressive Disorder	ONVOC:0000139	Depressive Disorder	MESH:D003866
+Depressive Disorder	ONVOC:0000139	Depressive Disorder, Major	MESH:D003865
 Medial orbitofrontal cortex	ONVOC:0000046	Orbital Area	MESH:D017397
 Meloxicam	ONVOC:0000182	Meloxicam	MESH:D000077239
 Memantine	ONVOC:0000260	1-Amino-3,5-dimethyladamantane	MESH:D008559
