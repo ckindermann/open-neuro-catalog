@@ -1,0 +1,25 @@
+Arousal
+Monitoring
+Decision Making
+Valence
+Anticipation
+Emotion
+Cognitive Control
+Error Detection
+Salience
+Cognitive Process
+Reward
+Context
+Strategy
+Reaction Time
+Disgust
+Interoception
+Pain
+Empathy
+Expectancy
+Response Selection
+Cognitive
+Manipulation
+Response Inhibition
+Working Memory
+Decision
