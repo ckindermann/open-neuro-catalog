@@ -1,6 +1,6 @@
 Typical Health 
 Head Injury
-Brain Injury
+Traumatic Brain Injury
 Abnormal Physiological Condition
 Spinal Cord Injury
 Skull Fracture
