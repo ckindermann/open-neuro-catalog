@@ -5,7 +5,7 @@ Alzheimer's Disease
 Epilepsy
 Parkinson's Disease
 Multiple Sclerosis
-Neuropathic Pain
+Chronic Pain
 Peripheral Neuropathy
 Carpal Tunnel Syndrome
 Sciatica
@@ -23,4 +23,10 @@ Pituitary Adenoma
 Palsiy
 Multiple Sclerosis
 Motor Neuron Disease
-Spinocerebellar Ataxia
+Huntington's Disease
+Communication Disorder
+Aphasia
+Apraxia
+Amyotrophic Lateral Sclerosis
+Dystonia
+Ataxia
