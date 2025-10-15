@@ -1,0 +1,7 @@
+This is a schizophrenia in ultimatum game task study for Fribourg University. Participants were asked to play the UG in both roles, both as responder and proposer. 128 electrode EEG was recorded during the task. 19 patients with psychosis epoisodes and 24 healths controls were recorded during the task.
+
+This dataset was recorded at the Fribourg University in Switzerland. The project was approved by the Ethics Committee of the University of Fribourg (reference number: 054/13-CER-FR).
+
+Participants sat in a shielded room, in a comfortable chair and played the game, while EEG was recorded.
+
+For each role, participants performed three blocks, consisting of 30 repetitions each.

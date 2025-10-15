@@ -1,8 +1,9 @@
 term	vocabulary_id	comment
-Brain Regions	ONVOC:0000001	
-Disorders	ONVOC:0000002	
-Drugs and Medications	ONVOC:0000003	
-Study Design	ONVOC:0000005	
-Symptoms	ONVOC:0000006	
-Psychological Constructs	ONVOC:0000473	
-Sensation and Perception	ONVOC:0000526	
+Behaviors	ONVOC:0000001	
+Brain Regions	ONVOC:0000002	
+Disorders	ONVOC:0000003	
+Drugs and Medications	ONVOC:0000004	
+Psychological Concepts	ONVOC:0000005	
+Sensation and Perception	ONVOC:0000006	
+Study Design	ONVOC:0000007	
+Symptoms	ONVOC:0000008	

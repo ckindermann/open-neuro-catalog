@@ -1,26 +1,33 @@
 term	vocabulary_id	comment
-Headache	ONVOC:0000118	
-Migraine	ONVOC:0000119	
-Stroke	ONVOC:0000120	
-Alzheimer's Disease	ONVOC:0000121	
-Epilepsy	ONVOC:0000122	
-Parkinson's Disease	ONVOC:0000123	
-Multiple Sclerosis	ONVOC:0000124	
-Neuropathic Pain	ONVOC:0000125	
-Peripheral Neuropathy	ONVOC:0000126	
-Carpal Tunnel Syndrome	ONVOC:0000127	
-Sciatica	ONVOC:0000128	
-Down Syndrome	ONVOC:0000129	
-Dyslexia	ONVOC:0000130	
-Fragile X Syndrome	ONVOC:0000131	
-Prosopagnosia	ONVOC:0000132	
-Hyperalgesia	ONVOC:0000133	
-Fibromyalgia	ONVOC:0000134	
-Dementia	ONVOC:0000135	
-Neurodegeneration	ONVOC:0000591	
-Neuroinflammation	ONVOC:0000592	
-Meningioma	ONVOC:0000593	
-Pituitary Adenoma	ONVOC:0000594	
-Palsiy	ONVOC:0000595	
-Motor Neuron Disease	ONVOC:0000596	
-Spinocerebellar Ataxia	ONVOC:0000597	
+Headache	ONVOC:0000173	
+Migraine	ONVOC:0000174	
+Stroke	ONVOC:0000175	
+Alzheimer's Disease	ONVOC:0000176	
+Epilepsy	ONVOC:0000177	
+Parkinson's Disease	ONVOC:0000178	
+Multiple Sclerosis	ONVOC:0000179	
+Chronic Pain	ONVOC:0000180	
+Peripheral Neuropathy	ONVOC:0000181	
+Carpal Tunnel Syndrome	ONVOC:0000182	
+Sciatica	ONVOC:0000183	
+Down Syndrome	ONVOC:0000184	
+Dyslexia	ONVOC:0000185	
+Fragile X Syndrome	ONVOC:0000186	
+Prosopagnosia	ONVOC:0000187	
+Hyperalgesia	ONVOC:0000188	
+Fibromyalgia	ONVOC:0000189	
+Dementia	ONVOC:0000190	
+Neurodegeneration	ONVOC:0000191	
+Neuroinflammation	ONVOC:0000192	
+Meningioma	ONVOC:0000193	
+Pituitary Adenoma	ONVOC:0000194	
+Palsiy	ONVOC:0000195	
+Multiple Sclerosis	ONVOC:0000179	
+Motor Neuron Disease	ONVOC:0000196	
+Huntington's Disease	ONVOC:0000197	
+Communication Disorder	ONVOC:0000198	
+Aphasia	ONVOC:0000199	
+Apraxia	ONVOC:0000200	
+Amyotrophic Lateral Sclerosis	ONVOC:0000201	
+Dystonia	ONVOC:0000202	
+Ataxia	ONVOC:0000203	

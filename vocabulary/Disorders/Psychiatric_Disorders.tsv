@@ -1,24 +1,43 @@
 term	vocabulary_id	comment
-Anxiety Disorders	ONVOC:0000136	
-Phobia	ONVOC:0000137	
-Panic Disorder	ONVOC:0000138	
-Depressive Disorder	ONVOC:0000139	
-Bipolar Disorder	ONVOC:0000140	
-Borderline Personality Disorder	ONVOC:0000141	
-Attention-Deficit Hyperactivity Disorder	ONVOC:0000142	
-Post-Traumatic Stress Disorder	ONVOC:0000143	
-Obsessive-Compulsive Disorder	ONVOC:0000144	
-Eating Disorders	ONVOC:0000145	
-Personality Disorders	ONVOC:0000146	
-Autism Spectrum Disorder	ONVOC:0000147	
-Substance Use Disorders	ONVOC:0000148	
-Schizophrenia	ONVOC:0000149	
-Developmental Disorder	ONVOC:0000150	
-Psychotic Disorder	ONVOC:0000151	
-Affective Psychotic Disorder	ONVOC:0000152	
-Claustrophobia	ONVOC:0000153	
-Alexithymia	ONVOC:0000599	
-Mood Dysregulation Disorder	ONVOC:0000600	
-Oppositional Defiant Disorder	ONVOC:0000601	
-Social Phobia	ONVOC:0000602	
-Grief Disorder	ONVOC:0000603	
+Anxiety Disorders	ONVOC:0000204	
+Phobia	ONVOC:0000205	
+Panic Disorder	ONVOC:0000206	
+Depressive Disorder	ONVOC:0000207	
+Bipolar Disorder	ONVOC:0000208	
+Borderline Personality Disorder	ONVOC:0000209	
+Attention-Deficit Hyperactivity Disorder	ONVOC:0000210	
+Post-Traumatic Stress Disorder	ONVOC:0000211	
+Obsessive-Compulsive Disorder	ONVOC:0000212	
+Eating Disorders	ONVOC:0000213	
+Personality Disorders	ONVOC:0000214	
+Autism Spectrum Disorder	ONVOC:0000215	
+Substance Use Disorders	ONVOC:0000216	
+Schizophrenia	ONVOC:0000217	
+Developmental Disorder	ONVOC:0000218	
+Psychotic Disorder	ONVOC:0000219	
+Affective Psychotic Disorder	ONVOC:0000220	
+Alexithymia	ONVOC:0000221	
+Claustrophobia	ONVOC:0000222	
+Mood Dysregulation Disorder	ONVOC:0000223	
+Oppositional Defiant Disorder	ONVOC:0000224	
+Social Phobia	ONVOC:0000225	
+Grief Disorder	ONVOC:0000226	
+Behavioral Addiction	ONVOC:0000227	
+Gambling Addiction	ONVOC:0000228	
+Sex Addiction	ONVOC:0000229	
+Porn Addiction	ONVOC:0000230	
+Gaming Addiction	ONVOC:0000231	
+Internet Addiction	ONVOC:0000232	
+Tobacco Use Disorder	ONVOC:0000233	
+Cannabis Use Disorder	ONVOC:0000234	
+Dissociative Disorder	ONVOC:0000235	
+Neurodevelopment Disorders	ONVOC:0000236	
+Learning Disorder	ONVOC:0000237	
+Catatonia	ONVOC:0000238	
+Gender Dysphoria	ONVOC:0000239	
+Conduct Disorders	ONVOC:0000240	
+Elimination Disorders	ONVOC:0000241	
+Sexual Dysfunctions	ONVOC:0000242	
+Mood Disorder	ONVOC:0000243	
+Cyclothymic Disorder	ONVOC:0000244	
+Body Dysmorphic Disorder	ONVOC:0000245	

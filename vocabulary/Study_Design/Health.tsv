@@ -1,8 +1,16 @@
 term	vocabulary_id	comment
-Typical Health	ONVOC:0000371	
-Head Injury	ONVOC:0000372	
-Brain Injury	ONVOC:0000373	
-Abnormal Physiological Condition	ONVOC:0000374	
-Spinal Cord Injury	ONVOC:0000375	
-Skull Fracture	ONVOC:0000376	
-Pregnancy	ONVOC:0000377	
+Typical Health	ONVOC:0000562	
+Abnormal Physiological Condition	ONVOC:0000563	
+Chromosomal Abnormality	ONVOC:0000564	
+Head Injury	ONVOC:0000565	
+Traumatic Brain Injury	ONVOC:0000566	
+Spinal Cord Injury	ONVOC:0000567	
+Skull Fracture	ONVOC:0000568	
+Lesion	ONVOC:0000569	
+Pregnancy	ONVOC:0000570	
+Menopause	ONVOC:0000571	
+Perimenopause	ONVOC:0000572	
+Postmenopause	ONVOC:0000573	
+Amputation	ONVOC:0000574	
+Concussion	ONVOC:0000575	
+Paralysis	ONVOC:0000576	
