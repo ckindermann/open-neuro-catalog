@@ -5,3 +5,4 @@ Declarative Memory
 Procedural Memory
 Episodic Memory
 Semantic Memory
+Declarative Memory
