@@ -34,3 +34,6 @@ Insomnia
 Sleep Disorder
 Infectious Disease
 Chromosomal Disorder
+Glaucoma
+Blood Disorder
+Hormonal Disorder

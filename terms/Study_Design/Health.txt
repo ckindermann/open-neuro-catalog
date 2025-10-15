@@ -10,3 +10,6 @@ Pregnancy
 Menopause
 Perimenopause
 Postmenopause
+Amputation
+Concussion
+Paralysis

@@ -37,3 +37,6 @@ Gender Dysphoria
 Conduct Disorders
 Elimination Disorders
 Sexual Dysfunctions
+Mood Disorder
+Cyclothymic Disorder
+Body Dysmorphic Disorder
