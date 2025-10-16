@@ -1,6 +1,8 @@
 Adult
 Elderly
 Minor
-Adolesce
+Adolescence
 Child
 Infant
+Puberty
+Prepubescent

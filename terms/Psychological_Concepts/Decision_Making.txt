@@ -1,0 +1,11 @@
+Numerical Comparison
+Logical Reasoning
+Arithmetic Operation
+Analogical Reasoning
+Abductive Reasoning
+Causal Reasoning
+Inductive Reasoning
+Conditional Reasoning
+Value-Based Reasoning
+Moral Reasoning
+Intuitive Reasoning

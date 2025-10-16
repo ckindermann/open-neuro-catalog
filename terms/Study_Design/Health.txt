@@ -1,7 +1,15 @@
-Typical Health 
-Head Injury
-Brain Injury
+Typical Health
 Abnormal Physiological Condition
+Chromosomal Abnormality
+Head Injury
+Traumatic Brain Injury
 Spinal Cord Injury
 Skull Fracture
+Lesion
 Pregnancy
+Menopause
+Perimenopause
+Postmenopause
+Amputation
+Concussion
+Paralysis

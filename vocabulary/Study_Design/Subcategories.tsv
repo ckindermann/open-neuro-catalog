@@ -1,15 +1,15 @@
 term	vocabulary_id	comment
-Age	ONVOC:0000343	
-Behaviors	ONVOC:0000344	
-Education Levels	ONVOC:0000345	
-Ethnicities	ONVOC:0000346	
-Handedness	ONVOC:0000347	
-Health	ONVOC:0000348	
-Intelligence	ONVOC:0000349	
-Sex	ONVOC:0000351	
-Study Types	ONVOC:0000352	
-Weight	ONVOC:0000353	
-Family Relations	ONVOC:0000499	
-Languages	ONVOC:0000543	
-Population Groups	ONVOC:0000547	
-Species	ONVOC:0000564	
+Age	ONVOC:0000514	
+Education Levels	ONVOC:0000515	
+Ethnicities	ONVOC:0000516	
+Family Relations	ONVOC:0000517	
+Handedness	ONVOC:0000518	
+Health	ONVOC:0000519	
+Intelligence	ONVOC:0000520	
+Languages	ONVOC:0000521	
+Population Groups	ONVOC:0000522	
+Sex	ONVOC:0000523	
+Species	ONVOC:0000524	
+Study Types	ONVOC:0000525	
+Tests	ONVOC:0000526	
+Weight	ONVOC:0000527	

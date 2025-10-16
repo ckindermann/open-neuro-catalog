@@ -1,7 +1,9 @@
 term	vocabulary_id	comment
-Adult	ONVOC:0000354	
-Elderly	ONVOC:0000355	
-Minor	ONVOC:0000356	
-Adolesce	ONVOC:0000357	
-Child	ONVOC:0000358	
-Infant	ONVOC:0000359	
+Adult	ONVOC:0000528	
+Elderly	ONVOC:0000529	
+Minor	ONVOC:0000530	
+Adolescence	ONVOC:0000531	
+Child	ONVOC:0000532	
+Infant	ONVOC:0000533	
+Puberty	ONVOC:0000534	
+Prepubescent	ONVOC:0000535	

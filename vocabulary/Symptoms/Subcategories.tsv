@@ -1,4 +1,4 @@
 term	vocabulary_id	comment
-Medical	ONVOC:0000396	
-Neurological	ONVOC:0000397	
-Psychiatric	ONVOC:0000398	
+Medical Symptoms	ONVOC:0000647	
+Neurological Symptoms	ONVOC:0000648	
+Psychiatric Symptoms	ONVOC:0000649	

@@ -1,91 +1,91 @@
 vocabulary_term	vocabulary_id	mapped_term_label	mapped_term_curie
-Alcohol Abuse	ONVOC:0000497	alcohol abuse	MONDO:0002046
-Alexithymia	ONVOC:0000599	alexithymia	MONDO:0000661
-Alzheimer's Disease	ONVOC:0000121	Alzheimer disease	MONDO:0004975
-Alzheimer's Disease	ONVOC:0000121	Alzheimer disease 2	MONDO:0007089
-Alzheimer's Disease	ONVOC:0000121	Alzheimer disease 3	MONDO:0011913
-Amblyopia	ONVOC:0000536	amblyopia	MONDO:0001020
-Anemia	ONVOC:0000115	anemia	MONDO:0002280
-Anxiety	ONVOC:0000445	anxiety	MONDO:0011918
-Asthma	ONVOC:0000110	asthma	MONDO:0004979
-Attention-Deficit Hyperactivity Disorder	ONVOC:0000142	attention deficit-hyperactivity disorder	MONDO:0007743
-Autism Spectrum Disorder	ONVOC:0000147	autism spectrum disorder	MONDO:0005258
-Autism Spectrum Disorder	ONVOC:0000147	autism spectrum disorder 1	MONDO:0100610
-Autism Spectrum Disorder	ONVOC:0000147	autism spectrum disorder 2	MONDO:0100611
-Bipolar Disorder	ONVOC:0000140	bipolar disorder	MONDO:0004985
-Bipolar Disorder	ONVOC:0000140	bipolar I disorder	MONDO:0001866
-Borderline Personality Disorder	ONVOC:0000141	borderline personality disorder	MONDO:0001156
-Bowel Dysfunction	ONVOC:0000439	bowel dysfunction	MONDO:0004880
-Brain Injury	ONVOC:0000373	brain injury	MONDO:0043510
-Brain Tumor	ONVOC:0000577	brain neoplasm	MONDO:0021211
-Cancer	ONVOC:0000116	cancer	MONDO:0004992
-Cardiovascular Disease	ONVOC:0000117	cardiovascular disorder	MONDO:0004995
-Carpal Tunnel Syndrome	ONVOC:0000127	carpal tunnel syndrome	MONDO:0007275
-Carpal Tunnel Syndrome	ONVOC:0000127	carpal tunnel syndrome 1	MONDO:0020730
-Carpal Tunnel Syndrome	ONVOC:0000127	carpal tunnel syndrome 2	MONDO:0030883
-Chronic Fatigue Syndrome	ONVOC:0000580	myalgic encephalomeyelitis/chronic fatigue syndrome	MONDO:0005404
-Chronic Obstructive Pulmonary Disease	ONVOC:0000111	chronic obstructive pulmonary disease	MONDO:0005002
-Color Blindness	ONVOC:0000535	color vision disorder	MONDO:0001703
-Coronary Artery Disease	ONVOC:0000112	coronary artery disorder	MONDO:0005010
-Dementia	ONVOC:0000135	dementia	MONDO:0001627
-Depressive Disorder	ONVOC:0000139	depressive disorder	MONDO:0002050
-Down Syndrome	ONVOC:0000129	Down syndrome	MONDO:0008608
-Dyslexia	ONVOC:0000130	dyslexia	MONDO:0005489
-Epilepsy	ONVOC:0000122	epilepsy	MONDO:0005027
-Fibromyalgia	ONVOC:0000134	fibromyalgia	MONDO:0005546
-Fragile X Syndrome	ONVOC:0000131	fragile X syndrome	MONDO:0010383
-Gastroesophageal Reflux Disease	ONVOC:0000113	gastroesophageal reflux disease	MONDO:0007186
-Hearing Loss	ONVOC:0000337	hearing loss disorder	MONDO:0005365
-Hepatitis B Virus	ONVOC:0000582	hepatitis B virus infection	MONDO:0005344
-Hepatitis C Virus	ONVOC:0000583	hepatitis C virus infection	MONDO:0005231
-Hyperlipidemia	ONVOC:0000105	hyperlipidemia	MONDO:0021187
-Hyperlipidemia	ONVOC:0000105	hyperlipoproteinemia type 3	MONDO:0018473
-Hyperthyroidism	ONVOC:0000585	hyperthyroidism	MONDO:0004425
-Hypothyroidism	ONVOC:0000114	hypothyroidism	MONDO:0005420
-Intellectual Disability	ONVOC:0000514	intellectual disability	MONDO:0001071
-Kidney Disease	ONVOC:0000109	kidney disorder	MONDO:0005240
-Liver Disease	ONVOC:0000586	liver disorder	MONDO:0005154
-Meningioma	ONVOC:0000593	meningioma	MONDO:0016642
-Migraine	ONVOC:0000119	cluster headache syndrome	MONDO:0043537
-Migraine	ONVOC:0000119	migraine disorder	MONDO:0005277
-Motor Neuron Disease	ONVOC:0000596	motor neuron disorder	MONDO:0020128
-Multiple Sclerosis	ONVOC:0000124	multiple sclerosis	MONDO:0005301
-Obesity	ONVOC:0000107	obesity disorder	MONDO:0011122
-Obsessive-Compulsive Disorder	ONVOC:0000144	obsessive-compulsive disorder	MONDO:0008114
-Oppositional Defiant Disorder	ONVOC:0000601	oppositional defiant disorder	MONDO:0000495
-Osteoarthritis	ONVOC:0000108	osteoarthritis	MONDO:0005178
-Panic Disorder	ONVOC:0000138	panic disorder	MONDO:0005383
-Panic Disorder	ONVOC:0000138	panic disorder 1	MONDO:0008187
-Panic Disorder	ONVOC:0000138	panic disorder 2	MONDO:0011924
-Parkinson's Disease	ONVOC:0000123	autosomal dominant Parkinson disease 8	MONDO:0011764
-Parkinson's Disease	ONVOC:0000123	Parkinson disease	MONDO:0005180
-Parkinson's Disease	ONVOC:0000123	Parkinson disease 3, autosomal dominant	MONDO:0011220
-Peripheral Neuropathy	ONVOC:0000126	peripheral neuropathy	MONDO:0005244
-Personality Disorders	ONVOC:0000146	personality disorder	MONDO:0002028
-Phobia	ONVOC:0000137	phobic disorder	MONDO:0003699
-Pituitary Adenoma	ONVOC:0000594	pituitary gland adenoma	MONDO:0006373
-Prosopagnosia	ONVOC:0000132	prosopagnosia	MONDO:0003227
-Psychotic Disorder	ONVOC:0000151	psychotic disorder	MONDO:0005485
-Schizophrenia	ONVOC:0000149	schizophrenia	MONDO:0005090
-Schizophrenia	ONVOC:0000149	schizophrenia 1	MONDO:0008414
-Schizophrenia	ONVOC:0000149	schizophrenia 2	MONDO:0011307
-Sciatica	ONVOC:0000128	sciatica	MONDO:0024333
-Scotoma	ONVOC:0000443	scotoma	MONDO:0004758
-Sleep Disturbances	ONVOC:0000409	sleep disorder	MONDO:0100081
-Social Phobia	ONVOC:0000602	social phobia	MONDO:0001247
-Sore Throat	ONVOC:0000405	pharyngitis	MONDO:0002258
-Spinal Cord Injury	ONVOC:0000375	spinal cord injury	MONDO:0043797
-Spinocerebellar Ataxia	ONVOC:0000597	cerebellar ataxia	MONDO:0000437
-Spinocerebellar Ataxia	ONVOC:0000597	Machado-Joseph disease	MONDO:0007182
-Spinocerebellar Ataxia	ONVOC:0000597	spinocerebellar ataxia 7	MONDO:0016163
-Stroke	ONVOC:0000120	stroke disorder	MONDO:0005098
-Substance Dependence	ONVOC:0000498	substance dependence	MONDO:0004938
-Tetralogy of Fallot	ONVOC:0000589	tetralogy of fallot	MONDO:0008542
-Thyroiditis	ONVOC:0000588	thyroiditis	MONDO:0004126
-Type 1 Diabetes Mellitus	ONVOC:0000578	maturity-onset diabetes of the young type 1	MONDO:0007452
-Type 1 Diabetes Mellitus	ONVOC:0000578	type 1 diabetes mellitus	MONDO:0005147
-Type 1 Diabetes Mellitus	ONVOC:0000578	type 2 diabetes mellitus	MONDO:0005148
-Type 2 Diabetes Mellitus	ONVOC:0000106	diabetes mellitus, noninsulin-dependent, 3	MONDO:0011363
-Type 2 Diabetes Mellitus	ONVOC:0000106	maturity-onset diabetes of the young type 1	MONDO:0007452
-Type 2 Diabetes Mellitus	ONVOC:0000106	type 2 diabetes mellitus	MONDO:0005148
-Visual cortex	ONVOC:0000521	visual cortex disorder	MONDO:0003584
+Alcohol Abuse	ONVOC:0000017	alcohol abuse	MONDO:0002046
+Alexithymia	ONVOC:0000221	alexithymia	MONDO:0000661
+Alzheimer's Disease	ONVOC:0000176	Alzheimer disease	MONDO:0004975
+Alzheimer's Disease	ONVOC:0000176	Alzheimer disease 2	MONDO:0007089
+Alzheimer's Disease	ONVOC:0000176	Alzheimer disease 3	MONDO:0011913
+Amblyopia	ONVOC:0000135	amblyopia	MONDO:0001020
+Anemia	ONVOC:0000150	anemia	MONDO:0002280
+Anxiety	ONVOC:0000694	anxiety	MONDO:0011918
+Asthma	ONVOC:0000145	asthma	MONDO:0004979
+Attention-Deficit Hyperactivity Disorder	ONVOC:0000210	attention deficit-hyperactivity disorder	MONDO:0007743
+Autism Spectrum Disorder	ONVOC:0000215	autism spectrum disorder	MONDO:0005258
+Autism Spectrum Disorder	ONVOC:0000215	autism spectrum disorder 1	MONDO:0100610
+Autism Spectrum Disorder	ONVOC:0000215	autism spectrum disorder 2	MONDO:0100611
+Bipolar Disorder	ONVOC:0000208	bipolar disorder	MONDO:0004985
+Bipolar Disorder	ONVOC:0000208	bipolar I disorder	MONDO:0001866
+Borderline Personality Disorder	ONVOC:0000209	borderline personality disorder	MONDO:0001156
+Bowel Dysfunction	ONVOC:0000688	bowel dysfunction	MONDO:0004880
+Traumatic Brain Injury	ONVOC:0000566	brain injury	MONDO:0043510
+Brain Tumor	ONVOC:0000137	brain neoplasm	MONDO:0021211
+Cancer	ONVOC:0000151	cancer	MONDO:0004992
+Cardiovascular Disease	ONVOC:0000152	cardiovascular disorder	MONDO:0004995
+Carpal Tunnel Syndrome	ONVOC:0000182	carpal tunnel syndrome	MONDO:0007275
+Carpal Tunnel Syndrome	ONVOC:0000182	carpal tunnel syndrome 1	MONDO:0020730
+Carpal Tunnel Syndrome	ONVOC:0000182	carpal tunnel syndrome 2	MONDO:0030883
+Chronic Fatigue Syndrome	ONVOC:0000153	myalgic encephalomeyelitis/chronic fatigue syndrome	MONDO:0005404
+Chronic Obstructive Pulmonary Disease	ONVOC:0000146	chronic obstructive pulmonary disease	MONDO:0005002
+Color Blindness	ONVOC:0000154	color vision disorder	MONDO:0001703
+Coronary Artery Disease	ONVOC:0000147	coronary artery disorder	MONDO:0005010
+Dementia	ONVOC:0000190	dementia	MONDO:0001627
+Depressive Disorder	ONVOC:0000207	depressive disorder	MONDO:0002050
+Down Syndrome	ONVOC:0000184	Down syndrome	MONDO:0008608
+Dyslexia	ONVOC:0000185	dyslexia	MONDO:0005489
+Epilepsy	ONVOC:0000177	epilepsy	MONDO:0005027
+Fibromyalgia	ONVOC:0000189	fibromyalgia	MONDO:0005546
+Fragile X Syndrome	ONVOC:0000186	fragile X syndrome	MONDO:0010383
+Gastroesophageal Reflux Disease	ONVOC:0000148	gastroesophageal reflux disease	MONDO:0007186
+Hearing Loss	ONVOC:0000509	hearing loss disorder	MONDO:0005365
+Hepatitis B Virus	ONVOC:0000155	hepatitis B virus infection	MONDO:0005344
+Hepatitis C Virus	ONVOC:0000156	hepatitis C virus infection	MONDO:0005231
+Hyperlipidemia	ONVOC:0000139	hyperlipidemia	MONDO:0021187
+Hyperlipidemia	ONVOC:0000139	hyperlipoproteinemia type 3	MONDO:0018473
+Hyperthyroidism	ONVOC:0000158	hyperthyroidism	MONDO:0004425
+Hypothyroidism	ONVOC:0000149	hypothyroidism	MONDO:0005420
+Intellectual Disability	ONVOC:0000580	intellectual disability	MONDO:0001071
+Kidney Disease	ONVOC:0000144	kidney disorder	MONDO:0005240
+Liver Disease	ONVOC:0000159	liver disorder	MONDO:0005154
+Meningioma	ONVOC:0000193	meningioma	MONDO:0016642
+Migraine	ONVOC:0000174	cluster headache syndrome	MONDO:0043537
+Migraine	ONVOC:0000174	migraine disorder	MONDO:0005277
+Motor Neuron Disease	ONVOC:0000196	motor neuron disorder	MONDO:0020128
+Multiple Sclerosis	ONVOC:0000179	multiple sclerosis	MONDO:0005301
+Obesity	ONVOC:0000142	obesity disorder	MONDO:0011122
+Obsessive-Compulsive Disorder	ONVOC:0000212	obsessive-compulsive disorder	MONDO:0008114
+Oppositional Defiant Disorder	ONVOC:0000224	oppositional defiant disorder	MONDO:0000495
+Osteoarthritis	ONVOC:0000143	osteoarthritis	MONDO:0005178
+Panic Disorder	ONVOC:0000206	panic disorder	MONDO:0005383
+Panic Disorder	ONVOC:0000206	panic disorder 1	MONDO:0008187
+Panic Disorder	ONVOC:0000206	panic disorder 2	MONDO:0011924
+Parkinson's Disease	ONVOC:0000178	autosomal dominant Parkinson disease 8	MONDO:0011764
+Parkinson's Disease	ONVOC:0000178	Parkinson disease	MONDO:0005180
+Parkinson's Disease	ONVOC:0000178	Parkinson disease 3, autosomal dominant	MONDO:0011220
+Peripheral Neuropathy	ONVOC:0000181	peripheral neuropathy	MONDO:0005244
+Personality Disorders	ONVOC:0000214	personality disorder	MONDO:0002028
+Phobia	ONVOC:0000205	phobic disorder	MONDO:0003699
+Pituitary Adenoma	ONVOC:0000194	pituitary gland adenoma	MONDO:0006373
+Prosopagnosia	ONVOC:0000187	prosopagnosia	MONDO:0003227
+Psychotic Disorder	ONVOC:0000219	psychotic disorder	MONDO:0005485
+Schizophrenia	ONVOC:0000217	schizophrenia	MONDO:0005090
+Schizophrenia	ONVOC:0000217	schizophrenia 1	MONDO:0008414
+Schizophrenia	ONVOC:0000217	schizophrenia 2	MONDO:0011307
+Sciatica	ONVOC:0000183	sciatica	MONDO:0024333
+Scotoma	ONVOC:0000692	scotoma	MONDO:0004758
+Sleep Disturbances	ONVOC:0000660	sleep disorder	MONDO:0100081
+Social Phobia	ONVOC:0000225	social phobia	MONDO:0001247
+Sore Throat	ONVOC:0000656	pharyngitis	MONDO:0002258
+Spinal Cord Injury	ONVOC:0000567	spinal cord injury	MONDO:0043797
+Ataxia	ONVOC:0000203	cerebellar ataxia	MONDO:0000437
+Ataxia	ONVOC:0000203	Machado-Joseph disease	MONDO:0007182
+Ataxia	ONVOC:0000203	spinocerebellar ataxia 7	MONDO:0016163
+Stroke	ONVOC:0000175	stroke disorder	MONDO:0005098
+Substance Dependence	ONVOC:0000021	substance dependence	MONDO:0004938
+Tetralogy of Fallot	ONVOC:0000162	tetralogy of fallot	MONDO:0008542
+Thyroiditis	ONVOC:0000161	thyroiditis	MONDO:0004126
+Type 1 Diabetes Mellitus	ONVOC:0000140	maturity-onset diabetes of the young type 1	MONDO:0007452
+Type 1 Diabetes Mellitus	ONVOC:0000140	type 1 diabetes mellitus	MONDO:0005147
+Type 1 Diabetes Mellitus	ONVOC:0000140	type 2 diabetes mellitus	MONDO:0005148
+Type 2 Diabetes Mellitus	ONVOC:0000141	diabetes mellitus, noninsulin-dependent, 3	MONDO:0011363
+Type 2 Diabetes Mellitus	ONVOC:0000141	maturity-onset diabetes of the young type 1	MONDO:0007452
+Type 2 Diabetes Mellitus	ONVOC:0000141	type 2 diabetes mellitus	MONDO:0005148
+Visual cortex	ONVOC:0000035	visual cortex disorder	MONDO:0003584

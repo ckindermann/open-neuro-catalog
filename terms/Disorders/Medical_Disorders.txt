@@ -27,3 +27,13 @@ Liver Disease
 Sepsis
 Thyroiditis
 Tetralogy of Fallot
+Gastrointestinal Disorder
+Disorders of Consciousness
+Deafness
+Insomnia
+Sleep Disorder
+Infectious Disease
+Chromosomal Disorder
+Glaucoma
+Blood Disorder
+Hormonal Disorder

@@ -1,29 +1,40 @@
 term	vocabulary_id	comment
-Hypertension	ONVOC:0000104	
-Hyperlipidemia	ONVOC:0000105	
-Type 2 Diabetes Mellitus	ONVOC:0000106	
-Obesity	ONVOC:0000107	
-Osteoarthritis	ONVOC:0000108	
-Kidney Disease	ONVOC:0000109	
-Asthma	ONVOC:0000110	
-Chronic Obstructive Pulmonary Disease	ONVOC:0000111	
-Coronary Artery Disease	ONVOC:0000112	
-Gastroesophageal Reflux Disease	ONVOC:0000113	
-Hypothyroidism	ONVOC:0000114	
-Anemia	ONVOC:0000115	
-Cancer	ONVOC:0000116	
-Cardiovascular Disease	ONVOC:0000117	
-Amblyopia	ONVOC:0000536	
-Aneurysm	ONVOC:0000576	
-Brain Tumor	ONVOC:0000577	
-Type 1 Diabetes Mellitus	ONVOC:0000578	
-Chronic Fatigue Syndrome	ONVOC:0000580	
-Color Blindness	ONVOC:0000535	
-Hepatitis B Virus	ONVOC:0000582	
-Hepatitis C Virus	ONVOC:0000583	
-Human Immunodeficiency Virus	ONVOC:0000584	
-Hyperthyroidism	ONVOC:0000585	
-Liver Disease	ONVOC:0000586	
-Sepsis	ONVOC:0000587	
-Thyroiditis	ONVOC:0000588	
-Tetralogy of Fallot	ONVOC:0000589	
+Amblyopia	ONVOC:0000135	
+Aneurysm	ONVOC:0000136	
+Brain Tumor	ONVOC:0000137	
+Hypertension	ONVOC:0000138	
+Hyperlipidemia	ONVOC:0000139	
+Type 1 Diabetes Mellitus	ONVOC:0000140	
+Type 2 Diabetes Mellitus	ONVOC:0000141	
+Obesity	ONVOC:0000142	
+Osteoarthritis	ONVOC:0000143	
+Kidney Disease	ONVOC:0000144	
+Asthma	ONVOC:0000145	
+Chronic Obstructive Pulmonary Disease	ONVOC:0000146	
+Coronary Artery Disease	ONVOC:0000147	
+Gastroesophageal Reflux Disease	ONVOC:0000148	
+Hypothyroidism	ONVOC:0000149	
+Anemia	ONVOC:0000150	
+Cancer	ONVOC:0000151	
+Cardiovascular Disease	ONVOC:0000152	
+Chronic Fatigue Syndrome	ONVOC:0000153	
+Color Blindness	ONVOC:0000154	
+Hepatitis B Virus	ONVOC:0000155	
+Hepatitis C Virus	ONVOC:0000156	
+Human Immunodeficiency Virus	ONVOC:0000157	
+Hyperthyroidism	ONVOC:0000158	
+Hypothyroidism	ONVOC:0000149	
+Liver Disease	ONVOC:0000159	
+Sepsis	ONVOC:0000160	
+Thyroiditis	ONVOC:0000161	
+Tetralogy of Fallot	ONVOC:0000162	
+Gastrointestinal Disorder	ONVOC:0000163	
+Disorders of Consciousness	ONVOC:0000164	
+Deafness	ONVOC:0000165	
+Insomnia	ONVOC:0000166	
+Sleep Disorder	ONVOC:0000167	
+Infectious Disease	ONVOC:0000168	
+Chromosomal Disorder	ONVOC:0000169	
+Glaucoma	ONVOC:0000170	
+Blood Disorder	ONVOC:0000171	
+Hormonal Disorder	ONVOC:0000172	

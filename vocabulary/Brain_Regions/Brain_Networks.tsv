@@ -1,9 +1,9 @@
 term	vocabulary_id	comment
-Default mode network	ONVOC:0000516	
-Salience network	ONVOC:0000517	
-Dorsal attention network	ONVOC:0000518	
-Frontoparietal network	ONVOC:0000519	
-Sensorimotor network	ONVOC:0000520	
-Visual cortex	ONVOC:0000521	
-Limbic network	ONVOC:0000522	
-Central executive network	ONVOC:0000523	
+Default mode network	ONVOC:0000030	
+Salience network	ONVOC:0000031	
+Dorsal attention network	ONVOC:0000032	
+Frontoparietal network	ONVOC:0000033	
+Sensorimotor network	ONVOC:0000034	
+Visual cortex	ONVOC:0000035	
+Limbic network	ONVOC:0000036	
+Central executive network	ONVOC:0000037	

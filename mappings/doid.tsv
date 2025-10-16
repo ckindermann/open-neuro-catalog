@@ -1,77 +1,77 @@
 vocabulary_term	vocabulary_id	mapped_term_label	mapped_term_curie
-Alcohol Abuse	ONVOC:0000497	alcohol use disorder	DOID:1574
-Alexithymia	ONVOC:0000599	alexithymia	DOID:0060131
-Alzheimer's Disease	ONVOC:0000121	Alzheimer's disease	DOID:10652
-Alzheimer's Disease	ONVOC:0000121	Alzheimer's disease 3	DOID:0110042
-Alzheimer's Disease	ONVOC:0000121	Alzheimer's disease 4	DOID:0110040
-Amblyopia	ONVOC:0000536	amblyopia	DOID:10376
-Anemia	ONVOC:0000115	anemia	DOID:2355
-Anxiety	ONVOC:0000445	anxiety disorder	DOID:2030
-Anxiety Disorders	ONVOC:0000136	anxiety disorder	DOID:2030
-Asthma	ONVOC:0000110	asthma	DOID:2841
-Attention-Deficit Hyperactivity Disorder	ONVOC:0000142	attention deficit hyperactivity disorder	DOID:1094
-Autism Spectrum Disorder	ONVOC:0000147	autism spectrum disorder	DOID:0060041
-Bipolar Disorder	ONVOC:0000140	bipolar disorder	DOID:3312
-Bipolar Disorder	ONVOC:0000140	bipolar I disorder	DOID:14042
-Borderline Personality Disorder	ONVOC:0000141	borderline personality disorder	DOID:10930
-Bowel Dysfunction	ONVOC:0000439	bowel dysfunction	DOID:9779
-Cancer	ONVOC:0000116	cancer	DOID:162
-Carpal Tunnel Syndrome	ONVOC:0000127	carpal tunnel syndrome	DOID:12169
-Carpal Tunnel Syndrome	ONVOC:0000127	carpal tunnel syndrome 1	DOID:0070466
-Carpal Tunnel Syndrome	ONVOC:0000127	carpal tunnel syndrome 2	DOID:0070467
-Chronic Fatigue Syndrome	ONVOC:0000580	chronic fatigue syndrome	DOID:8544
-Chronic Obstructive Pulmonary Disease	ONVOC:0000111	chronic obstructive pulmonary disease	DOID:3083
-Color Blindness	ONVOC:0000535	color blindness	DOID:13399
-Coronary Artery Disease	ONVOC:0000112	coronary artery disease	DOID:3393
-Dementia	ONVOC:0000135	dementia	DOID:1307
-Depressive Disorder	ONVOC:0000139	depressive disorder	DOID:1596
-Down Syndrome	ONVOC:0000129	Down syndrome	DOID:14250
-Dyslexia	ONVOC:0000130	dyslexia	DOID:4428
-Epilepsy	ONVOC:0000122	epilepsy	DOID:1826
-Fibromyalgia	ONVOC:0000134	fibromyalgia	DOID:631
-Fragile X Syndrome	ONVOC:0000131	fragile X syndrome	DOID:14261
-Gastroesophageal Reflux Disease	ONVOC:0000113	gastroesophageal reflux disease	DOID:8534
-Hypertension	ONVOC:0000104	hypertension	DOID:10763
-Hyperthyroidism	ONVOC:0000585	hyperthyroidism	DOID:7998
-Hypothyroidism	ONVOC:0000114	hypothyroidism	DOID:1459
-Intellectual Disability	ONVOC:0000514	intellectual disability	DOID:1059
-Intellectual Disability	ONVOC:0000514	syndromic intellectual disability	DOID:0050888
-Kidney Disease	ONVOC:0000109	kidney disease	DOID:557
-Liver Disease	ONVOC:0000586	liver disease	DOID:409
-Meningioma	ONVOC:0000593	meningioma	DOID:3565
-Migraine	ONVOC:0000119	migraine	DOID:6364
-Motor Neuron Disease	ONVOC:0000596	motor neuron disease	DOID:231
-Multiple Sclerosis	ONVOC:0000124	multiple sclerosis	DOID:2377
-Obesity	ONVOC:0000107	obesity	DOID:9970
-Obsessive-Compulsive Disorder	ONVOC:0000144	obsessive-compulsive disorder	DOID:10933
-Oppositional Defiant Disorder	ONVOC:0000601	oppositional defiant disorder	DOID:0050856
-Osteoarthritis	ONVOC:0000108	osteoarthritis	DOID:8398
-Panic Disorder	ONVOC:0000138	panic disorder	DOID:594
-Parkinson's Disease	ONVOC:0000123	Parkinson's disease	DOID:14330
-Parkinson's Disease	ONVOC:0000123	Parkinson's disease 3	DOID:0111250
-Peripheral Neuropathy	ONVOC:0000126	neuropathy	DOID:870
-Personality Disorders	ONVOC:0000146	personality disorder	DOID:1510
-Pituitary Adenoma	ONVOC:0000594	pituitary adenoma	DOID:3829
-Pituitary Adenoma	ONVOC:0000594	pituitary adenoma 1	DOID:0112009
-Pituitary Adenoma	ONVOC:0000594	pituitary adenoma 3	DOID:0112010
-Post-Traumatic Stress Disorder	ONVOC:0000143	acute stress disorder	DOID:6088
-Prosopagnosia	ONVOC:0000132	prosopagnosia	DOID:4970
-Psychotic Disorder	ONVOC:0000151	psychotic disorder	DOID:2468
-Schizophrenia	ONVOC:0000149	schizophrenia	DOID:5419
-Schizophrenia	ONVOC:0000149	schizophrenia 1	DOID:0070077
-Schizophrenia	ONVOC:0000149	schizophrenia 2	DOID:0070078
-Scotoma	ONVOC:0000443	scotoma	DOID:9335
-Social Phobia	ONVOC:0000602	social phobia	DOID:11257
-Spinocerebellar Ataxia	ONVOC:0000597	autosomal dominant cerebellar ataxia	DOID:1441
-Spinocerebellar Ataxia	ONVOC:0000597	Machado-Joseph disease	DOID:1440
-Spinocerebellar Ataxia	ONVOC:0000597	spinocerebellar ataxia type 1	DOID:0050954
-Stroke	ONVOC:0000120	cerebrovascular disease	DOID:6713
-Substance Dependence	ONVOC:0000498	substance dependence	DOID:9973
-Tetralogy of Fallot	ONVOC:0000589	tetralogy of Fallot	DOID:6419
-Thyroiditis	ONVOC:0000588	thyroiditis	DOID:7166
-Type 1 Diabetes Mellitus	ONVOC:0000578	type 1 diabetes mellitus	DOID:9744
-Type 1 Diabetes Mellitus	ONVOC:0000578	type 1 diabetes mellitus 2	DOID:0110741
-Type 1 Diabetes Mellitus	ONVOC:0000578	type 1 diabetes mellitus 3	DOID:0110742
-Type 2 Diabetes Mellitus	ONVOC:0000106	maturity-onset diabetes of the young type 1	DOID:0111099
-Type 2 Diabetes Mellitus	ONVOC:0000106	type 1 diabetes mellitus 2	DOID:0110741
-Type 2 Diabetes Mellitus	ONVOC:0000106	type 2 diabetes mellitus	DOID:9352
+Alcohol Abuse	ONVOC:0000017	alcohol use disorder	DOID:1574
+Alexithymia	ONVOC:0000221	alexithymia	DOID:0060131
+Alzheimer's Disease	ONVOC:0000176	Alzheimer's disease	DOID:10652
+Alzheimer's Disease	ONVOC:0000176	Alzheimer's disease 3	DOID:0110042
+Alzheimer's Disease	ONVOC:0000176	Alzheimer's disease 4	DOID:0110040
+Amblyopia	ONVOC:0000135	amblyopia	DOID:10376
+Anemia	ONVOC:0000150	anemia	DOID:2355
+Anxiety	ONVOC:0000694	anxiety disorder	DOID:2030
+Anxiety Disorders	ONVOC:0000204	anxiety disorder	DOID:2030
+Asthma	ONVOC:0000145	asthma	DOID:2841
+Attention-Deficit Hyperactivity Disorder	ONVOC:0000210	attention deficit hyperactivity disorder	DOID:1094
+Autism Spectrum Disorder	ONVOC:0000215	autism spectrum disorder	DOID:0060041
+Bipolar Disorder	ONVOC:0000208	bipolar disorder	DOID:3312
+Bipolar Disorder	ONVOC:0000208	bipolar I disorder	DOID:14042
+Borderline Personality Disorder	ONVOC:0000209	borderline personality disorder	DOID:10930
+Bowel Dysfunction	ONVOC:0000688	bowel dysfunction	DOID:9779
+Cancer	ONVOC:0000151	cancer	DOID:162
+Carpal Tunnel Syndrome	ONVOC:0000182	carpal tunnel syndrome	DOID:12169
+Carpal Tunnel Syndrome	ONVOC:0000182	carpal tunnel syndrome 1	DOID:0070466
+Carpal Tunnel Syndrome	ONVOC:0000182	carpal tunnel syndrome 2	DOID:0070467
+Chronic Fatigue Syndrome	ONVOC:0000153	chronic fatigue syndrome	DOID:8544
+Chronic Obstructive Pulmonary Disease	ONVOC:0000146	chronic obstructive pulmonary disease	DOID:3083
+Color Blindness	ONVOC:0000154	color blindness	DOID:13399
+Coronary Artery Disease	ONVOC:0000147	coronary artery disease	DOID:3393
+Dementia	ONVOC:0000190	dementia	DOID:1307
+Depressive Disorder	ONVOC:0000207	depressive disorder	DOID:1596
+Down Syndrome	ONVOC:0000184	Down syndrome	DOID:14250
+Dyslexia	ONVOC:0000185	dyslexia	DOID:4428
+Epilepsy	ONVOC:0000177	epilepsy	DOID:1826
+Fibromyalgia	ONVOC:0000189	fibromyalgia	DOID:631
+Fragile X Syndrome	ONVOC:0000186	fragile X syndrome	DOID:14261
+Gastroesophageal Reflux Disease	ONVOC:0000148	gastroesophageal reflux disease	DOID:8534
+Hypertension	ONVOC:0000138	hypertension	DOID:10763
+Hyperthyroidism	ONVOC:0000158	hyperthyroidism	DOID:7998
+Hypothyroidism	ONVOC:0000149	hypothyroidism	DOID:1459
+Intellectual Disability	ONVOC:0000580	intellectual disability	DOID:1059
+Intellectual Disability	ONVOC:0000580	syndromic intellectual disability	DOID:0050888
+Kidney Disease	ONVOC:0000144	kidney disease	DOID:557
+Liver Disease	ONVOC:0000159	liver disease	DOID:409
+Meningioma	ONVOC:0000193	meningioma	DOID:3565
+Migraine	ONVOC:0000174	migraine	DOID:6364
+Motor Neuron Disease	ONVOC:0000196	motor neuron disease	DOID:231
+Multiple Sclerosis	ONVOC:0000179	multiple sclerosis	DOID:2377
+Obesity	ONVOC:0000142	obesity	DOID:9970
+Obsessive-Compulsive Disorder	ONVOC:0000212	obsessive-compulsive disorder	DOID:10933
+Oppositional Defiant Disorder	ONVOC:0000224	oppositional defiant disorder	DOID:0050856
+Osteoarthritis	ONVOC:0000143	osteoarthritis	DOID:8398
+Panic Disorder	ONVOC:0000206	panic disorder	DOID:594
+Parkinson's Disease	ONVOC:0000178	Parkinson's disease	DOID:14330
+Parkinson's Disease	ONVOC:0000178	Parkinson's disease 3	DOID:0111250
+Peripheral Neuropathy	ONVOC:0000181	neuropathy	DOID:870
+Personality Disorders	ONVOC:0000214	personality disorder	DOID:1510
+Pituitary Adenoma	ONVOC:0000194	pituitary adenoma	DOID:3829
+Pituitary Adenoma	ONVOC:0000194	pituitary adenoma 1	DOID:0112009
+Pituitary Adenoma	ONVOC:0000194	pituitary adenoma 3	DOID:0112010
+Post-Traumatic Stress Disorder	ONVOC:0000211	acute stress disorder	DOID:6088
+Prosopagnosia	ONVOC:0000187	prosopagnosia	DOID:4970
+Psychotic Disorder	ONVOC:0000219	psychotic disorder	DOID:2468
+Schizophrenia	ONVOC:0000217	schizophrenia	DOID:5419
+Schizophrenia	ONVOC:0000217	schizophrenia 1	DOID:0070077
+Schizophrenia	ONVOC:0000217	schizophrenia 2	DOID:0070078
+Scotoma	ONVOC:0000692	scotoma	DOID:9335
+Social Phobia	ONVOC:0000225	social phobia	DOID:11257
+Ataxia	ONVOC:0000203	autosomal dominant cerebellar ataxia	DOID:1441
+Ataxia	ONVOC:0000203	Machado-Joseph disease	DOID:1440
+Ataxia	ONVOC:0000203	spinocerebellar ataxia type 1	DOID:0050954
+Stroke	ONVOC:0000175	cerebrovascular disease	DOID:6713
+Substance Dependence	ONVOC:0000021	substance dependence	DOID:9973
+Tetralogy of Fallot	ONVOC:0000162	tetralogy of Fallot	DOID:6419
+Thyroiditis	ONVOC:0000161	thyroiditis	DOID:7166
+Type 1 Diabetes Mellitus	ONVOC:0000140	type 1 diabetes mellitus	DOID:9744
+Type 1 Diabetes Mellitus	ONVOC:0000140	type 1 diabetes mellitus 2	DOID:0110741
+Type 1 Diabetes Mellitus	ONVOC:0000140	type 1 diabetes mellitus 3	DOID:0110742
+Type 2 Diabetes Mellitus	ONVOC:0000141	maturity-onset diabetes of the young type 1	DOID:0111099
+Type 2 Diabetes Mellitus	ONVOC:0000141	type 1 diabetes mellitus 2	DOID:0110741
+Type 2 Diabetes Mellitus	ONVOC:0000141	type 2 diabetes mellitus	DOID:9352
