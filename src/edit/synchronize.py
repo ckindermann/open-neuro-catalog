@@ -1,6 +1,19 @@
 #!/usr/bin/env python3
 """
-Synchronize a set of terms (using .txt files) with its controlled vocabulary (using .tsv files).
+Synchronize a set of terms (usidef append_rows_to_tsv(tsv_path: str, new_rows: list[list[str]], header: list[str]):
+    """
+    Append new_rows (list of [term, vocabulary_id, comment]) to the TSV at tsv_path.
+    If the file doesn't exist, create it with header first.
+    """
+    ensure_dir(os.path.dirname(tsv_path))
+    file_exists = os.path.isfile(tsv_path)
+    mode = "a" if file_exists else "w"
+    with open(tsv_path, mode, newline='\n', encoding="utf-8") as fp:
+        writer = csv.writer(fp, delimiter="\t", lineterminator='\n')
+        if not file_exists:
+            writer.writerow(header)
+        for row in new_rows:
+            writer.writerow(row) with its controlled vocabulary (using .tsv files).
 This ensures that:
   1. Any new categories (folders) in the set of terms are added to the vocabulary (Categories.tsv,
      category folder, and Subcategories.tsv).
@@ -64,8 +77,8 @@ def append_rows_to_tsv(tsv_path: str, new_rows: list[list[str]], header: list[st
     ensure_dir(os.path.dirname(tsv_path))
     file_exists = os.path.isfile(tsv_path)
     mode = "a" if file_exists else "w"
-    with open(tsv_path, mode, newline="", encoding="utf-8") as fp:
-        writer = csv.writer(fp, delimiter="\t")
+    with open(tsv_path, mode, newline='\n', encoding="utf-8") as fp:
+        writer = csv.writer(fp, delimiter="\t", lineterminator='\n')
         if not file_exists:
             writer.writerow(header)
         for row in new_rows:
