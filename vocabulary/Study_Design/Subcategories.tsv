@@ -1,15 +1,3 @@
 term	vocabulary_id	comment
-Age	ONVOC:0000514	
-Education Levels	ONVOC:0000515	
-Ethnicities	ONVOC:0000516	
-Family Relations	ONVOC:0000517	
-Handedness	ONVOC:0000518	
-Health	ONVOC:0000519	
-Intelligence	ONVOC:0000520	
-Languages	ONVOC:0000521	
-Population Groups	ONVOC:0000522	
-Sex	ONVOC:0000523	
-Species	ONVOC:0000524	
 Study Types	ONVOC:0000525	
 Tests	ONVOC:0000526	
-Weight	ONVOC:0000527	
