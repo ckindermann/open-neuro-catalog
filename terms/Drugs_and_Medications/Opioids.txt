@@ -1,13 +1,10 @@
 Hydrocodone
-Acetaminophen
 Oxycodone
 Acetaminophen
-Oxycodone
 Tramadol
 Morphine Sulfate
 Fentanyl
 Codeine
-Buprenorphine
 Hydromorphone
 Tapentadol
 Naloxone
