@@ -42,18 +42,18 @@ def load_tsv_map(tsv_path):
 
 def main(vocab_root, output_path):
     # Namespaces
-    CAT = Namespace("http://www.onvoc/test/alpha#")
+    CAT = Namespace("https://w3id.org/onvoc/ONVOC_")
     SCHEME_URI = CAT.scheme
 
     g = Graph()
     g.bind("skos", SKOS)
     g.bind("owl", OWL)
     g.bind("rdf", RDF)
-    g.bind("alpha", CAT)
+    g.bind("ONVOC", CAT)
 
     # Declare the scheme itself
     g.add((SCHEME_URI, RDF.type, SKOS.ConceptScheme))
-    g.add((SCHEME_URI, SKOS.prefLabel, Literal("Alpha Controlled Vocabulary")))
+    g.add((SCHEME_URI, SKOS.prefLabel, Literal("Controlled Vocabulary")))
 
     # 1) Load categories
     cats_tsv = os.path.join(vocab_root, "Categories.tsv")
@@ -62,7 +62,7 @@ def main(vocab_root, output_path):
     # Map vocab_id -> URIRef, and store term for convenience
     uri_map = {}
     for term, vid in categories:
-        uri = URIRef(f"{CAT}{vid.replace(':','_')}")
+        uri = URIRef(f"{CAT}{vid.replace('ONVOC:','')}")
         uri_map[vid] = uri
         # Types
         g.add((uri, RDF.type, SKOS.Concept))
@@ -84,7 +84,7 @@ def main(vocab_root, output_path):
             continue
         subcats = load_tsv_map(sub_tsv)
         for sub_term, sub_vid in subcats:
-            sub_uri = URIRef(f"{CAT}{sub_vid.replace(':','_')}")
+            sub_uri = URIRef(f"{CAT}{sub_vid.replace('ONVOC:','')}")
             uri_map[sub_vid] = sub_uri
             # Types & labels & inScheme
             g.add((sub_uri, RDF.type, SKOS.Concept))
@@ -104,7 +104,7 @@ def main(vocab_root, output_path):
                 continue
             leaves = load_tsv_map(leaf_tsv)
             for leaf_term, leaf_vid in leaves:
-                leaf_uri = URIRef(f"{CAT}{leaf_vid.replace(':','_')}")
+                leaf_uri = URIRef(f"{CAT}{leaf_vid.replace('ONVOC:','')}")
                 uri_map[leaf_vid] = leaf_uri
                 g.add((leaf_uri, RDF.type, SKOS.Concept))
                 g.add((leaf_uri, RDF.type, OWL.NamedIndividual))
