@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 """
 Synchronize a set of terms (usidef append_rows_to_tsv(tsv_path: str, new_rows: list[list[str]], header: list[str]):
-    """
     Append new_rows (list of [term, vocabulary_id, comment]) to the TSV at tsv_path.
     If the file doesn't exist, create it with header first.
-    """
     ensure_dir(os.path.dirname(tsv_path))
     file_exists = os.path.isfile(tsv_path)
     mode = "a" if file_exists else "w"
