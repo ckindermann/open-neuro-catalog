@@ -29,9 +29,6 @@ def load_vocabulary(vocab_dir: Path) -> Dict[str, str]:
 
     # Find all TSV files in vocabulary directory
     for tsv_file in vocab_dir.rglob('*.tsv'):
-        # Skip files named 'Subcategories.tsv' as they may have different structure
-        if tsv_file.name == 'Subcategories.tsv':
-            continue
 
         try:
             with open(tsv_file, 'r', encoding='utf-8') as f:
@@ -49,7 +46,7 @@ def load_vocabulary(vocab_dir: Path) -> Dict[str, str]:
                         vocab_map[vocab_id] = term
 
         except Exception as e:
-            print(f"  ✗ Error reading {tsv_file}: {e}")
+            print(f"   Error reading {tsv_file}: {e}")
 
     return vocab_map
 
