@@ -3,14 +3,11 @@ vocabulary_term	vocabulary_id	mesh_term	mesh_id
 Abnormal Physiological Condition	ONVOC:0000563	Abnormalities, Nail	MESH:D009264
 Acetaminophen	ONVOC:0000724	Acetaminophen	MESH:D000082
 Acetaminophen	ONVOC:0000724	Acetominophen	MESH:D000082
-Action Initiation	ONVOC:0000436	Codon, Initiator	MESH:D018387
 Adolescence	ONVOC:0000531	Adolescence	MESH:D000293
 Adopted Child	ONVOC:0000558	Adopted Children	MESH:D000073922
 Adult	ONVOC:0000528	Adult	MESH:D000328
-Adult	ONVOC:0000528	Adults	MESH:D000328
 Affective Psychotic Disorder	ONVOC:0000220	Affective Disorders, Psychotic	MESH:D000341
 Affective Psychotic Disorder	ONVOC:0000220	Disorders, Psychotic	MESH:D011618
-African	ONVOC:0000585	African-American	MESH:D001741
 African American	ONVOC:0000586	African-American	MESH:D001741
 Alaskan Native	ONVOC:0000597	Alaskan Natives	MESH:D000072957
 Alcohol Abuse	ONVOC:0000017	Abuse, Ethanol	MESH:D000437
@@ -22,7 +19,6 @@ Alprazolam	ONVOC:0000316	Alprazolam	MESH:D000525
 Alzheimer's Disease	ONVOC:0000176	Alzheimer Disease	MESH:D000544
 Alzheimer's Disease	ONVOC:0000176	Alzheimer Disease 5	MESH:C566578
 Alzheimer's Disease	ONVOC:0000176	Alzheimer Disease 6	MESH:C565325
-Alzheimer's Disease	ONVOC:0000176	Dementia, Primary Senile Degenerative	MESH:D000544
 Amantadine	ONVOC:0000392	1-Aminoadamantane	MESH:D000547
 Amantadine	ONVOC:0000392	Amantadine	MESH:D000547
 Amblyopia	ONVOC:0000135	Amblyopia	MESH:D000550
@@ -82,7 +78,6 @@ Bipolar Disorder	ONVOC:0000208	Bipolar Disorder	MESH:D001714
 Bipolar Disorder	ONVOC:0000208	Bipolar Mood Disorder	MESH:D001714
 Black	ONVOC:0000587	Black Sea	MESH:D059038
 Bladder Dysfunction	ONVOC:0000689	Urinary Bladder Disorder, Neurogenic	MESH:D001750
-Bladder Habits	ONVOC:0000669	Bladder, Urinary	MESH:D001743
 Blood Disorder	ONVOC:0000171	Blood Protein Disorders	MESH:D001796
 Body Dysmorphic Disorder	ONVOC:0000245	Body Dysmorphic Disorders	MESH:D057215
 Body Mass Index	ONVOC:0000642	Body Mass Index	MESH:D015992
@@ -108,9 +103,7 @@ Buspirone	ONVOC:0000327	N-(4-(4-(2-pyrimidinyl)-1-piperazinyl)butyl)-1-cyclopent
 Cabergoline	ONVOC:0000773	Cabergoline	MESH:D000077465
 Cabergoline	ONVOC:0000773	Ergoline-8-carboxamide, N-(3-(dimethylamino)propyl)-N-((ethylamino)carbonyl)-6-(2-propen-1-yl)-, (8beta)-	MESH:D000077465
 Calcarine sulcus	ONVOC:0000043	Fissures, Calcarine	MESH:D009778
-California Verbal Learning Test	ONVOC:0000630	California	MESH:D002140
 Cambridge Neuropsychological Test Automated Battery	ONVOC:0000759	Cambridge Neuropsychological Test Automated Battery	MESH:D009483
-Cambridge Prospective Memory Test	ONVOC:0000631	Memory, Prospective	MESH:D061212
 Cancer	ONVOC:0000151	Neoplasms, Malignant	MESH:D009369
 Cannabichromene	ONVOC:0000335	cannabichromene	MESH:C010695
 Cannabidiol	ONVOC:0000334	1,3-Benzenediol, 2-(3-methyl-6-(1-methylethenyl)-2-cyclohexen-1-yl)-5-pentyl-, (1R-trans)-	MESH:D002185
@@ -134,8 +127,6 @@ Caudal superior temporal sulcus, first segment	ONVOC:0000046	Temporal Sulcus	MES
 Caudal superior temporal sulcus, second segment	ONVOC:0000047	Temporal Sulcus	MESH:D013702
 Caudal superior temporal sulcus, third segment	ONVOC:0000048	Temporal Sulcus	MESH:D013702
 Caudate Nucleus	ONVOC:0000113	Caudate Nucleus	MESH:D002421
-Caudate Nucleus	ONVOC:0000113	Urodela	MESH:D014562
-Causal Reasoning	ONVOC:0000455	Clinical Reasoning	MESH:D000086723
 Celecoxib	ONVOC:0000273	4-(5-(4-methylphenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl)benzenesulfonamide	MESH:D000068579
 Celecoxib	ONVOC:0000273	Celecoxib	MESH:D000068579
 Cerebellum	ONVOC:0000114	Cerebellum	MESH:D002531
@@ -168,12 +159,9 @@ Codeine	ONVOC:0000731	N Methylmorphine	MESH:D003061
 Cognistat (The Neurobehavioral Cognitive Status Examination)	ONVOC:0000760	Neurobehavioral Cognitive Status Examination	MESH:D000073216
 Cognitive Assessment Screening Instrument	ONVOC:0000761	Cognitive Assessment Screening Instrument	MESH:D000073216
 Cognitive Flexibility	ONVOC:0000468	Cognitive Flexibility	MESH:D000098282
-Cognitive Flexibility	ONVOC:0000468	Pliability	MESH:D018583
 Cognitive Function Scanner	ONVOC:0000762	Functions, Cognitive	MESH:D003071
 Cognitive Impairment	ONVOC:0000579	Cognitive Disorder	MESH:D060825
-Cognitive Inhibition	ONVOC:0000466	Proactive Inhibition	MESH:D011334
 Cohort Study	ONVOC:0000611	Cohort Studies	MESH:D015331
-Color Blindness	ONVOC:0000154	Colors	MESH:D003116
 Communication Disorder	ONVOC:0000198	Communication Disorders	MESH:D003147
 Communication Disorder	ONVOC:0000198	Communicative Disorder	MESH:D003147
 Comprehensive Aphasia Test	ONVOC:0000640	Comprehensive Aphasia Test	MESH:D007807
@@ -192,8 +180,7 @@ Cyclothymic Disorder	ONVOC:0000244	Cyclothymic Disorder	MESH:D003527
 d2 Test of Attention	ONVOC:0000742	Attention	MESH:D001288
 Deafness	ONVOC:0000165	Deafness	MESH:D003638
 Default mode network	ONVOC:0000030	Default Mode Network	MESH:D000082702
-Delis–Kaplan Executive Function System	ONVOC:0000743	Executive Function	MESH:D056344
-Delta-9-Tetrahydrocannabinol	ONVOC:0000331	delta-8-tetrahydrocannabinol	MESH:C035731
+Executive Function	ONVOC:0000430	Executive Function	MESH:D056344
 Delusions	ONVOC:0000720	Delusion	MESH:D003702
 Delusions	ONVOC:0000720	Delusions	MESH:D003702
 Dementia	ONVOC:0000190	Dementia	MESH:D003704
@@ -214,13 +201,11 @@ Diclofenac	ONVOC:0000275	Diclofenac	MESH:D004008
 Diclofenac	ONVOC:0000275	Dicrofenac	MESH:D004008
 Dienogest	ONVOC:0000343	19-norpregna-4,9-diene-21-nitrile, 17-hydroxy-3-oxo-, (17alpha)-	MESH:C023635
 Dienogest	ONVOC:0000343	dienogest	MESH:C023635
-Difficulty Concentrating	ONVOC:0000698	Ambulation Difficulties	MESH:D051346
 Diflunisal	ONVOC:0000284	Diflunisal	MESH:D004061
 Dimethyltryptamine	ONVOC:0000408	N,N Dimethyltryptamine	MESH:D004130
 Disorders of Consciousness	ONVOC:0000164	Consciousness Disorders	MESH:D003244
 Dissociative Disorder	ONVOC:0000235	Dissociative Disorders	MESH:D004213
 Dissociative Disorder	ONVOC:0000235	Reactions, Dissociative	MESH:D004213
-Divided Attention	ONVOC:0000442	Attention	MESH:D001288
 Dizziness	ONVOC:0000658	Dizziness	MESH:D004244
 Dizziness	ONVOC:0000658	Dizzyness	MESH:D004244
 Dog	ONVOC:0000769	Dogs	MESH:D004285
@@ -249,11 +234,9 @@ Elimination Disorders	ONVOC:0000241	Elimination Disorders	MESH:D019960
 Emotion Perception	ONVOC:0000461	Emotion	MESH:D004644
 Emotion Regulation	ONVOC:0000462	Emotion	MESH:D004644
 Emotion Regulation	ONVOC:0000462	Emotional Regulation	MESH:D000080103
-Emotional Outbursts	ONVOC:0000714	Emotion	MESH:D004644
 Empathy	ONVOC:0000502	Empathy	MESH:D004645
 Enflurane	ONVOC:0000270	Enflurane	MESH:D004737
 Enflurane	ONVOC:0000270	Ethane, 2-chloro-1-(difluoromethoxy)-1,1,2-trifluoro-	MESH:D004737
-English	ONVOC:0000581	English Abstract	MESH:D004740
 Entacapone	ONVOC:0000397	entacapone	MESH:C071192
 Entorhinal cortex	ONVOC:0000055	Entorhinal Cortex	MESH:D018728
 Entorhinal cortex	ONVOC:0000055	Entorhinal Cortices	MESH:D018728
@@ -270,9 +253,7 @@ European	ONVOC:0000589	People, European	MESH:D000094854
 Extended Amygdala	ONVOC:0000115	Corpus Amygdaloideums	MESH:D000679
 Father	ONVOC:0000556	Father	MESH:D005220
 Fatigue	ONVOC:0000650	Fatigue	MESH:D005221
-Feeling Disconnected	ONVOC:0000715	Feeling	MESH:D004644
 Feelings of Guilt	ONVOC:0000706	Guilts	MESH:D006167
-Feelings of Worthlessness	ONVOC:0000705	Feeling	MESH:D004644
 Female	ONVOC:0000601	Female	MESH:D005260
 Fentanyl	ONVOC:0000730	Fentanyl	MESH:D005283
 Fentanyl	ONVOC:0000730	Propanamide, N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)-	MESH:D005283
@@ -294,19 +275,16 @@ Gabapentin	ONVOC:0000328	Gabapentin	MESH:D000077206
 Galantamine	ONVOC:0000351	Galantamin	MESH:D005702
 Galantamine	ONVOC:0000351	Galantamine	MESH:D005702
 Galcanezumab	ONVOC:0000366	galcanezumab	MESH:C000628360
-Gambling Addiction	ONVOC:0000228	Gambling	MESH:D005715
 Gastroesophageal Reflux Disease	ONVOC:0000148	Gastroesophageal Reflux	MESH:D005764
 Gastroesophageal Reflux Disease	ONVOC:0000148	Reflux, Gastro-Esophageal	MESH:D005764
 Gastrointestinal Disorder	ONVOC:0000163	Gastrointestinal Disorders	MESH:D005767
 Gastrointestinal Issues	ONVOC:0000657	Digestive Tracts	MESH:D041981
-Gender Dysphoria	ONVOC:0000239	Gender	MESH:D005783
 Gender Dysphoria	ONVOC:0000239	Gender Dysphoria	MESH:D000068116
 General Practitioner Assessment Of Cognition	ONVOC:0000764	Functions, Cognitive	MESH:D003071
 Glaucoma	ONVOC:0000170	Glaucoma	MESH:D005901
 Globus Pallidus External Segment	ONVOC:0000116	Pallidum	MESH:D005917
 Globus Pallidus Internal Segment	ONVOC:0000117	Pallidum	MESH:D005917
 Grandparent	ONVOC:0000549	Grandparent	MESH:D000066502
-Grief Disorder	ONVOC:0000226	Griefs	MESH:D006117
 Guanfacine	ONVOC:0000262	Guanfacine	MESH:D016316
 Habenular Nucleus	ONVOC:0000118	Habenular Nucleus	MESH:D019262
 Habituation	ONVOC:0000484	Drug Habituation	MESH:D019966
@@ -405,7 +383,6 @@ Levonorgestrel	ONVOC:0000337	18,19-dinorpregn-4-en-20-yn-3-one, 13-ethyl-17-hydr
 Levonorgestrel	ONVOC:0000337	Levonorgestrel	MESH:D016912
 Lidocaine	ONVOC:0000774	Lidocaine	MESH:D008012
 Lightheadedness	ONVOC:0000659	Lightheadedness	MESH:D004244
-Limbic network	ONVOC:0000036	Gene Regulatory Networks	MESH:D053263
 Lingual gyrus	ONVOC:0000074	Linguali, Gyrus	MESH:D009778
 Lisdexamfetamine	ONVOC:0000421	Lisdexamfetamine	MESH:D000069478
 Lithium Carbonate	ONVOC:0000370	Lithium 7	MESH:D008094
@@ -413,8 +390,6 @@ Lithium Carbonate	ONVOC:0000370	Lithium Carbonate	MESH:D016651
 Liver Disease	ONVOC:0000159	Liver Diseases	MESH:D008107
 Locus coeruleus	ONVOC:0000777	Locus Coeruleus	MESH:D008125
 Locus coeruleus	ONVOC:0000777	Pontis, Nucleus Pigmentosus	MESH:D008125
-Logical Reasoning	ONVOC:0000451	Clinical Reasoning	MESH:D000086723
-Long-Term Memory	ONVOC:0000490	Long-Term Care	MESH:D008134
 Longitudinal Study	ONVOC:0000613	Study, Longitudinal	MESH:D008137
 Lorazepam	ONVOC:0000317	2H-1,4-Benzodiazepin-2-one, 7-chloro-5-(2-chlorophenyl)-1,3-dihydro-3-hydroxy-	MESH:D008140
 Lorazepam	ONVOC:0000317	Lorazepam	MESH:D008140
@@ -432,7 +407,6 @@ Marmoset	ONVOC:0000608	Short-Tusked Marmosets	MESH:D002144
 MCI Screen	ONVOC:0000765	Screen Time	MESH:D000077705
 Medetomidine	ONVOC:0000771	Levomedetomidine	MESH:D020926
 Medetomidine	ONVOC:0000771	Medetomidine	MESH:D020926
-Medial H-shaped orbital sulcus	ONVOC:0000075	Social Media	MESH:D061108
 Medial orbitofrontal cortex	ONVOC:0000076	Orbital Area	MESH:D017397
 Meloxicam	ONVOC:0000274	Meloxicam	MESH:D000077239
 Memantine	ONVOC:0000352	1-Amino-3,5-dimethyladamantane	MESH:D008559
@@ -469,7 +443,6 @@ Movement	ONVOC:0000437	Movement	MESH:D009068
 Multilingual Aphasia Examination	ONVOC:0000641	Multilingual Aphasia Examination	MESH:D007807
 Multiple Sclerosis	ONVOC:0000179	MS (Multiple Sclerosis)	MESH:D009103
 Multiple Sclerosis	ONVOC:0000179	Multiple Sclerosis	MESH:D009103
-Multisensory Integration	ONVOC:0000499	Virus Integration	MESH:D016662
 Muscle Weakness	ONVOC:0000676	Muscle Weakness	MESH:D018908
 Muscle Weakness	ONVOC:0000676	Weakness, Muscle	MESH:D018908
 Nabumetone	ONVOC:0000281	Nabumetone	MESH:D000077430
@@ -479,7 +452,6 @@ Naratriptan	ONVOC:0000359	N-methyl-3-(1-methyl-4-piperidinyl)-1H-indole-5-ethane
 Naratriptan	ONVOC:0000359	naratriptan	MESH:C106783
 Native Hawaiian	ONVOC:0000593	Native Hawaiian	MESH:C000724800
 Native Hawaiian	ONVOC:0000593	Native Hawaiian	MESH:D044468
-Negative Valence	ONVOC:0000464	Triple Negative Breast Neoplasm	MESH:D064726
 NEPSY	ONVOC:0000767	Developmental Neuropsychological Assessment	MESH:D009483
 Neurodegeneration	ONVOC:0000191	Nerve Degeneration	MESH:D009410
 Neurodevelopment Disorders	ONVOC:0000236	Neurodevelopmental Disorder	MESH:D065886
@@ -488,7 +460,6 @@ Neuroinflammation	ONVOC:0000192	Neuroinflammation	MESH:D000090862
 Nitrous Oxide	ONVOC:0000269	Laughing Gas	MESH:D009609
 Nitrous Oxide	ONVOC:0000269	Nitrous Oxide	MESH:D009609
 Nomegestrol Acetate	ONVOC:0000344	nomegestrol acetate	MESH:C038501
-non-Rapid Eye Movement Sleep	ONVOC:0000015	REM Sleep Parasomnias	MESH:D020923
 Norethindrone	ONVOC:0000338	Norethindrone	MESH:D009640
 Norethindrone	ONVOC:0000338	Norethisterone	MESH:D009640
 Norgestimate	ONVOC:0000339	norgestimate	MESH:C017576
@@ -512,7 +483,6 @@ Olfactory Perception	ONVOC:0000497	Olfactory Perception	MESH:D055696
 Olfactory Perception	ONVOC:0000497	Perception, Olfactory	MESH:D055696
 Olfactory sulcus	ONVOC:0000079	Olfactory Sulcus	MESH:D017397
 OnabotulinumtoxinA	ONVOC:0000368	Onabotulinumtoxin A	MESH:D019274
-Operant Conditioning	ONVOC:0000482	Air Conditioning	MESH:D000389
 Oppositional Defiant Disorder	ONVOC:0000224	Oppositional Defiant Disorder	MESH:D000096865
 Orbitofrontal cortex	ONVOC:0000776	Orbital Area	MESH:D017397
 Osteoarthritis	ONVOC:0000143	Osteoarthritides	MESH:D010003
@@ -557,13 +527,11 @@ Perimenopause	ONVOC:0000572	Perimenopause	MESH:D047648
 Peripheral Neuropathy	ONVOC:0000181	Nerve Diseases, Peripheral	MESH:D010523
 Personality Disorders	ONVOC:0000214	Personality Disorders	MESH:D010554
 Phobia	ONVOC:0000205	Phobia	MESH:D010698
-Pig	ONVOC:0000768	Pork Meat	MESH:D000080305
 Pimozide	ONVOC:0000300	2H-Benzimidazol-2-one, 1-(1-(4,4-bis(4-fluorophenyl)butyl)-4-piperidinyl)-1,3-dihydro-	MESH:D010868
 Pimozide	ONVOC:0000300	Pimozide	MESH:D010868
 Piroxicam	ONVOC:0000279	2H-1,2-Benzothiazine-3-carboxamide, 4-hydroxy-2-methyl-N-2-pyridinyl-, 1,1-dioxide	MESH:D010894
 Piroxicam	ONVOC:0000279	Piroxicam	MESH:D010894
 Pituitary Adenoma	ONVOC:0000194	Pituitary Adenomas	MESH:D010911
-Planning	ONVOC:0000469	City Planning	MESH:D002958
 Post-Traumatic Stress Disorder	ONVOC:0000211	Post-Traumatic Neuroses	MESH:D013313
 Postcentral gyrus	ONVOC:0000085	Gyrus, Post Central	MESH:D013003
 Posterior cingulate cortex	ONVOC:0000088	Posterior Cingulates	MESH:D006179
@@ -595,7 +563,6 @@ Puberty	ONVOC:0000534	Puberty	MESH:D011627
 Putamen	ONVOC:0000124	Putamen	MESH:D011699
 Quetiapine	ONVOC:0000286	2-(2-(4-dibenzo(b,f)(1,4)thiazepine-11-yl-1-piperazinyl)ethoxy)ethanol	MESH:D000069348
 Randomized Controlled Trial	ONVOC:0000614	Randomized Controlled Trial	MESH:D016449
-Rapid Eye Movement Sleep	ONVOC:0000014	REM Sleep Parasomnias	MESH:D020923
 Rasagiline	ONVOC:0000395	N-2-propynyl-1-indanamine	MESH:C031967
 Rasagiline	ONVOC:0000395	rasagiline	MESH:C031967
 Rat	ONVOC:0000603	Rattus	MESH:D051381
@@ -604,7 +571,6 @@ Red Nucleus	ONVOC:0000125	Nucleus Ruber	MESH:D012012
 Red Nucleus	ONVOC:0000125	Red Nucleus	MESH:D012012
 Restlessness	ONVOC:0000707	Restlessness	MESH:D011595
 Reward Responsiveness	ONVOC:0000463	Rewards	MESH:D012201
-Rey Auditory Verbal Learning Test	ONVOC:0000634	Verbal Learning	MESH:D014706
 Rigidity	ONVOC:0000685	Rigidity, Nuchal	MESH:D009127
 Rimegepant	ONVOC:0000363	rimegepant	MESH:C578443
 Risk-taking	ONVOC:0000721	Risk-Taking	MESH:D012309
@@ -629,24 +595,19 @@ Sciatica	ONVOC:0000183	Sciatica	MESH:D012585
 Scotoma	ONVOC:0000692	Scotoma	MESH:D012607
 Segesterone Acetate	ONVOC:0000347	Acetate	MESH:D000085
 Seizures	ONVOC:0000683	Seizures	MESH:D012640
-Selective Attention	ONVOC:0000441	Attention	MESH:D001288
 Selegiline	ONVOC:0000394	Selegiline	MESH:D012642
 Selegiline	ONVOC:0000394	Selegyline	MESH:D012642
 Self-Regulation	ONVOC:0000473	Self-Regulation	MESH:D000068356
-Semantic Memory	ONVOC:0000494	Semantics	MESH:D012660
 Semantics	ONVOC:0000477	Semantics	MESH:D012660
 Sepsis	ONVOC:0000160	Bloodstream Infections	MESH:D018805
 Sepsis	ONVOC:0000160	Sepsis	MESH:D018805
 Sertraline	ONVOC:0000301	1-Naphthalenamine,1,2,3,4-tetrahydro-4-(3,4-dichlorophenyl)-N-methyl-, (1S-cis)-	MESH:D020280
 Sertraline	ONVOC:0000301	Sertraline	MESH:D020280
 Sevoflurane	ONVOC:0000266	Sevoflurane	MESH:D000077149
-Sex Drive	ONVOC:0000713	Drives	MESH:D004328
 Sexual Dysfunctions	ONVOC:0000242	Psychosexual Dysfunctions	MESH:D020018
 Short-Term Memory	ONVOC:0000489	Memory, Short-Term	MESH:D008570
 Shortness of Breath	ONVOC:0000666	Dyspnea	MESH:D004417
 Sibling	ONVOC:0000546	Sibling	MESH:D035781
-Skill Acquisition	ONVOC:0000485	Skills, Motor	MESH:D009048
-Skin Irritation	ONVOC:0000663	Skin	MESH:D012867
 Skin Rashes	ONVOC:0000662	Rash	MESH:D005076
 Skull Fracture	ONVOC:0000568	Fracture, Skull	MESH:D012887
 Skull Fracture	ONVOC:0000568	Skull Fractures	MESH:D012887
@@ -663,12 +624,9 @@ South American	ONVOC:0000594	American Amerind, South	MESH:D007199
 South American	ONVOC:0000594	South America	MESH:D013020
 Southeast Asian	ONVOC:0000599	Southeast Asian People	MESH:D000095224
 Spanish	ONVOC:0000582	Spanish American	MESH:D006630
-Spatial Attention	ONVOC:0000443	Spatial Memory	MESH:D065852
 Speech Perception	ONVOC:0000480	Speech Perception	MESH:D013067
-Speech Production	ONVOC:0000479	Production	MESH:D004467
 Spinal Cord Injury	ONVOC:0000567	Cord Injury, Spinal	MESH:D013119
 Spouse	ONVOC:0000555	Married Persons	MESH:D018454
-Stiffness	ONVOC:0000684	Aortic Stiffness	MESH:D059289
 Stroke	ONVOC:0000175	Apoplexy, Cerebrovascular	MESH:D020521
 Stroke	ONVOC:0000175	Stroke	MESH:D020521
 Stroop Test	ONVOC:0000626	Stroop Test	MESH:D057190
@@ -690,13 +648,11 @@ Superior temporal gyrus	ONVOC:0000102	Gyrus Temporalis Superior	MESH:D013702
 Superior temporal sulcus	ONVOC:0000103	Temporal Sulcus	MESH:D013702
 Supramarginal gyrus	ONVOC:0000104	Brodmann's Area 40	MESH:D010296
 Sustained Attention	ONVOC:0000440	Attention	MESH:D001288
-Swelling	ONVOC:0000664	Brain Edema	MESH:D001929
 Swollen Lymph Nodes	ONVOC:0000671	Nodes, Lymph	MESH:D008198
 Symbol Digit Modalities Test	ONVOC:0000754	Symbol Digit Modalities Test	MESH:D009483
 Syntax	ONVOC:0000476	Qa-SNARE Proteins	MESH:D050765
 Tacrine	ONVOC:0000353	1,2,3,4-Tetrahydro-9-acridinamine	MESH:D013619
 Tacrine	ONVOC:0000353	Tacrine	MESH:D013619
-Tactile Perception	ONVOC:0000498	Processing, Sensory	MESH:D010465
 Tapentadol	ONVOC:0000734	Tapentadol	MESH:D000077432
 Temazepam	ONVOC:0000320	Methyloxazepam	MESH:D013693
 Temazepam	ONVOC:0000320	Temazepam	MESH:D013693
@@ -704,17 +660,12 @@ Temporal Attention	ONVOC:0000444	Attention	MESH:D001288
 Temporal gyrus	ONVOC:0000105	Temporal Gyrus	MESH:D013702
 Temporal Lobe	ONVOC:0000775	Lobe, Temporal	MESH:D013702
 Temporal Lobe	ONVOC:0000775	Temporal Lobe	MESH:D013702
-Tertiary Education	ONVOC:0000540	Education	MESH:D004493
-Test of Everyday Attention	ONVOC:0000755	Attention	MESH:D001288
-Test of Memory and Learning	ONVOC:0000636	Memory	MESH:D008568
-Test of Variables of Attention	ONVOC:0000751	Attention	MESH:D001288
 Tetrahydrocannabivarin	ONVOC:0000332	delta(9)-Tetrahydrocannabinol	MESH:D013759
 Tetrahydrocannabivarin	ONVOC:0000332	tetrahydrocannabivarin 9	MESH:C003403
 Tetralogy of Fallot	ONVOC:0000162	Tetralogy of Fallot	MESH:D013771
 Tetralogy of Fallot	ONVOC:0000162	Tetralogy, Fallots	MESH:D013771
 Thalamus	ONVOC:0000129	Thalamencephalon	MESH:D013788
 Thalamus	ONVOC:0000129	Thalamus	MESH:D013788
-Theory of Mind	ONVOC:0000501	Game Theory	MESH:D005716
 Theory of Mind	ONVOC:0000501	Theory of Mind	MESH:D056345
 Thyroiditis	ONVOC:0000161	Thyroiditis	MESH:D013966
 Tiagabine	ONVOC:0000374	Tiagabine	MESH:D000078308
@@ -728,7 +679,6 @@ Tobacco Use Disorder	ONVOC:0000233	Tobacco Use Disorder	MESH:D014029
 Tolcapone	ONVOC:0000398	Methanone, (3,4-dihydroxy-5-nitrophenyl)(4-methylphenyl)-	MESH:D000077867
 Tolcapone	ONVOC:0000398	Tolcapone	MESH:D000077867
 Topiramate	ONVOC:0000373	Topiramate	MESH:D000077236
-Tower of London Test	ONVOC:0000752	London	MESH:D008131
 Trail-Making Test	ONVOC:0000753	Trail Making Test	MESH:D014145
 Tramadol	ONVOC:0000728	Cyclohexanol, 2-((dimethylamino)methyl)-1-(3-methoxyphenyl)-, cis-(+-)-	MESH:D014147
 Tramadol	ONVOC:0000728	Tramadol	MESH:D014147
@@ -756,7 +706,6 @@ Ventral Tegmental Area	ONVOC:0000131	Ventral Tegmental Area	MESH:D017557
 Vilazodone	ONVOC:0000311	Vilazodone	MESH:D000069503
 Viloxazine	ONVOC:0000264	Morpholine, 2-((2-ethoxyphenoxy)methyl)-	MESH:D014745
 Viloxazine	ONVOC:0000264	Viloxazine	MESH:D014745
-Visual Attention	ONVOC:0000445	Attention	MESH:D001288
 Visual cortex	ONVOC:0000035	Visual Cortex	MESH:D014793
 Visual Perception	ONVOC:0000495	Processing, Sensory	MESH:D010465
 Visual Perception	ONVOC:0000495	Visual Perception	MESH:D014796
