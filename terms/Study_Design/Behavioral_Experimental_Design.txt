@@ -1,21 +1,25 @@
+Auditory Task
+Continuous Performance Task
+Film Viewing Paradigm
 Flanker Task
-Resting State Paradigm
 Gambling Task
-Stop Signal Task
-Visual Attention Paradigm
-Posner Cueing Paradigm
-Task Switching Paradigm
-Odball Paradigm
-Stroop Task
-n-back Paradigm
 Go/No-Go Paradigm
 Incentive Delay Task
-Motor Task
 Mental Rotation Task
-Simon Task
+Motor Task
+Odball Paradigm
+Posner Cueing Paradigm
 Reading Task
-Visual Task
-Auditory Task
-Film Viewing Paradigm
+Resting State Paradigm
 Reward Task Paradigm
+Simon Task
 Sternberg Task
+Stop Signal Task
+Stroop Task
+Task Switching Paradigm
+Visual Attention Paradigm
+Visual Task
+n-back Paradigm
+Lexical Decision Task
+Wisconsin Card Sorting Task
+Hooper Visual Organisation Task

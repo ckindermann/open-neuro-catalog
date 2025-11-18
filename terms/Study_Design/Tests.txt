@@ -1,15 +1,12 @@
 Benton Visual Retention Test
-Continuous Performance Task
 Halstead–Reitan Neuropsychological Battery
 Hayling and Brixton Tests
-Lexical Decision Task
 Luria–Nebraska Neuropsychological Battery
 Mini–Mental State Examination
 Rey–Osterrieth Complex Figure
 Stroop Test
 Wechsler Adult Intelligence Scale
 Wechsler Memory Scale
-Wisconsin Card Sorting Task
 California Verbal Learning Test
 Cambridge Prospective Memory Test
 Gollin figure test
@@ -18,7 +15,11 @@ Rivermead Behavioural Memory Test
 Mental Attributes Profiling System
 Boston Diagnostic Aphasia Examination
 Boston Naming Test
-Behavioural Assessment of Dysexecutive Syndrome 
+Comprehensive Aphasia Test
+Behavioural Assessment of Dysexecutive Syndrome
+Memory Assessment Scales
+Multilingual Aphasia Examination
+Test of Memory and Learning
 CNS Vital Signs (Brief Core Battery)
 Controlled Oral Word Association Test
 d2 Test of Attention
@@ -36,7 +37,6 @@ Trail-Making Test
 Symbol Digit Modalities Test
 Test of Everyday Attention
 Clock Test
-Hooper Visual Organisation Task
 Barcelona Neuropsychological Test
 Cambridge Neuropsychological Test Automated Battery 
 Cognistat (The Neurobehavioral Cognitive Status Examination)
