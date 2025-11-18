@@ -4,3 +4,5 @@ Desflurane
 Isoflurane
 Nitrous Oxide
 Enflurane
+Medetomidine
+Lidocaine
