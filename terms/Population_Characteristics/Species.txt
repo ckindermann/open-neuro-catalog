@@ -6,3 +6,10 @@ Bat
 Macaque
 Marmoset
 Monkey
+Pig
+Dog
+Pigeon
+Primate
+Bird
+Sheep
+Cat
