@@ -72,3 +72,7 @@ Temporo-Parietal Junction
 Transverse occipital sulcus
 Transverse temporal gyrus
 Ventral prefrontal cortex
+Temporal Lobe
+Orbitofrontal cortex
+Prefrontal cortex
+Parietal lobe
