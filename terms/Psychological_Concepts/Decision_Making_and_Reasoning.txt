@@ -4,6 +4,7 @@ Arithmetic Operation
 Analogical Reasoning
 Abductive Reasoning
 Causal Reasoning
+Deductive Reasoning
 Inductive Reasoning
 Conditional Reasoning
 Value-Based Reasoning
