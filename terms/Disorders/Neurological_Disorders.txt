@@ -20,7 +20,7 @@ Neurodegeneration
 Neuroinflammation
 Meningioma
 Pituitary Adenoma
-Palsiy
+Palsy
 Multiple Sclerosis
 Motor Neuron Disease
 Huntington's Disease
