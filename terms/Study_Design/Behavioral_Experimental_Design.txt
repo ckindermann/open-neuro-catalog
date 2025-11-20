@@ -23,3 +23,5 @@ n-back Paradigm
 Lexical Decision Task
 Wisconsin Card Sorting Task
 Hooper Visual Organisation Task
+Balloon Analogue Risk Task
+Naturalistic Paradigm
