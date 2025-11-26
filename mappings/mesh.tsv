@@ -186,6 +186,7 @@ Delusions	ONVOC:0000720	Delusions	MESH:D003702
 Dementia	ONVOC:0000190	Dementia	MESH:D003704
 Depersonalization	ONVOC:0000717	Depersonalization	MESH:D003861
 Depressive Disorder	ONVOC:0000207	Depressive Disorder	MESH:D003866
+Depressive Disorder	ONVOC:0000207	Depression	MESH:D003863
 Derealization	ONVOC:0000716	Derealizations	MESH:D003861
 Desflurane	ONVOC:0000267	1,2,2,2-Tetrafluoroethyl difluoromethyl ether	MESH:D000077335
 Desflurane	ONVOC:0000267	Desflurane	MESH:D000077335
@@ -227,6 +228,8 @@ Dystonia	ONVOC:0000202	Dystonia	MESH:D004421
 East Asian	ONVOC:0000598	Asia, Eastern	MESH:D005202
 Eating Disorders	ONVOC:0000213	Disorders, Eating	MESH:D001068
 Edema	ONVOC:0000665	Edema	MESH:D004487
+Education	ONVOC:0000515	Education	MESH:D004493
+Education	ONVOC:0000515	Education	MESH:Q000193
 Elderly	ONVOC:0000529	Elderly	MESH:D000368
 Eletriptan	ONVOC:0000356	(R)-3-((1-methyl-2-pyrrolidinyl)methyl)-5-(2-(phenylsulfonyl)ethyl)-1H-indole	MESH:C115647
 Eletriptan	ONVOC:0000356	eletriptan	MESH:C115647
@@ -255,6 +258,7 @@ Father	ONVOC:0000556	Father	MESH:D005220
 Fatigue	ONVOC:0000650	Fatigue	MESH:D005221
 Feelings of Guilt	ONVOC:0000706	Guilts	MESH:D006167
 Female	ONVOC:0000601	Female	MESH:D005260
+Female	ONVOC:0000601	Women	MESH:D014930
 Fentanyl	ONVOC:0000730	Fentanyl	MESH:D005283
 Fentanyl	ONVOC:0000730	Propanamide, N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)-	MESH:D005283
 Fever	ONVOC:0000653	Fever	MESH:D005334
@@ -370,6 +374,7 @@ Kidney Disease	ONVOC:0000144	Disease, Kidney	MESH:D007674
 Kidney Disease	ONVOC:0000144	Kidney Diseases	MESH:D007674
 Lamotrigine	ONVOC:0000369	3,5-Diamino-6-(2,3-dichlorophenyl)-as-triazine	MESH:D000077213
 Lamotrigine	ONVOC:0000369	Lamotrigine	MESH:D000077213
+Language	ONVOC:0000431	Language	MESH:D007802
 Lasmiditan	ONVOC:0000361	lasmiditan	MESH:C554777
 Lateral Geniculate Nucleus	ONVOC:0000778	Geniculate Bodies, Lateral	MESH:D005829
 Lateral occipital sulcus	ONVOC:0000071	Occipital Sulcus	MESH:D009778
@@ -403,6 +408,7 @@ Lysergic Acid Diethylamide	ONVOC:0000407	LSD	MESH:D008238
 Lysergic Acid Diethylamide	ONVOC:0000407	Lysergic Acid Diethylamide	MESH:D008238
 Macaque	ONVOC:0000607	Macaca	MESH:D008251
 Male	ONVOC:0000600	Male	MESH:D008297
+Male	ONVOC:0000600	Men	MESH:D008571
 Marmoset	ONVOC:0000608	Short-Tusked Marmosets	MESH:D002144
 MCI Screen	ONVOC:0000765	Screen Time	MESH:D000077705
 Medetomidine	ONVOC:0000771	Levomedetomidine	MESH:D020926
@@ -457,6 +463,7 @@ Neurodegeneration	ONVOC:0000191	Nerve Degeneration	MESH:D009410
 Neurodevelopment Disorders	ONVOC:0000236	Neurodevelopmental Disorder	MESH:D065886
 Neurodevelopment Disorders	ONVOC:0000236	Neurodevelopmental Disorders	MESH:D065886
 Neuroinflammation	ONVOC:0000192	Neuroinflammation	MESH:D000090862
+Neurological Disorders	ONVOC:0000133	Nervous System Disease	MESH:D009422
 Nitrous Oxide	ONVOC:0000269	Laughing Gas	MESH:D009609
 Nitrous Oxide	ONVOC:0000269	Nitrous Oxide	MESH:D009609
 Nomegestrol Acetate	ONVOC:0000344	nomegestrol acetate	MESH:C038501
@@ -557,6 +564,7 @@ Prosopagnosia	ONVOC:0000187	Prosopagnosia	MESH:D020238
 Prosopagnosia	ONVOC:0000187	Prosopagnosias	MESH:D020238
 Psilocin	ONVOC:0000410	psilocin	MESH:C009105
 Psilocybin	ONVOC:0000403	Psilocybin	MESH:D011562
+Psychiatric Disorders	ONVOC:0000134	Mental Disorders	MESH:D001523
 Psychotic Disorder	ONVOC:0000219	Disorders, Psychotic	MESH:D011618
 Puberty	ONVOC:0000534	Puberties	MESH:D011627
 Puberty	ONVOC:0000534	Puberty	MESH:D011627
@@ -611,6 +619,7 @@ Sibling	ONVOC:0000546	Sibling	MESH:D035781
 Skin Rashes	ONVOC:0000662	Rash	MESH:D005076
 Skull Fracture	ONVOC:0000568	Fracture, Skull	MESH:D012887
 Skull Fracture	ONVOC:0000568	Skull Fractures	MESH:D012887
+Sleep	ONVOC:0000009	Sleep	MESH:D012890
 Sleep Disorder	ONVOC:0000167	Disorder, Sleep	MESH:D012893
 Slow Wave Sleep	ONVOC:0000016	Slow Wave Sleep	MESH:D000077310
 Smartphone Use	ONVOC:0000024	Smartphone	MESH:D000068997
