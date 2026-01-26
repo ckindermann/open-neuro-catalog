@@ -74,13 +74,21 @@ The vocabulary can be modified using the `src/edit/edit_terms.py` script, which 
 
 ### Available Operations
 
-#### 1. Add a New Term
+#### 1. Add a New Term or Category
+
+**Add a new top-level category:**
+```bash
+python3 src/edit/edit_terms.py --terms ./terms --vocabulary ./vocabulary \
+    add "New Category" ""
+```
+
+**Add a term to existing subcategory:**
 ```bash
 python3 src/edit/edit_terms.py --terms ./terms --vocabulary ./vocabulary \
     add "New Term Name" "Category/Subcategory"
 ```
 
-Adds a new term to the specified category and subcategory. The term will automatically receive a new unique vocabulary ID.
+Creates a new top-level category (when path is empty) or adds a new term to the specified category and subcategory. New items automatically receive unique vocabulary IDs.
 
 #### 2. Remove a Term
 ```bash
@@ -90,13 +98,21 @@ python3 src/edit/edit_terms.py --terms ./terms --vocabulary ./vocabulary \
 
 Removes a term from the vocabulary. The term and its vocabulary ID will be permanently deleted.
 
-#### 3. Move/Rename a Term
+#### 3. Move/Rename Terms or Subcategories
+
+**Move an entire subcategory:**
+```bash
+python3 src/edit/edit_terms.py --terms ./terms --vocabulary ./vocabulary \
+    move "Old Category/Subcategory" "New Category/Subcategory"
+```
+
+**Move/rename a specific term:**
 ```bash
 python3 src/edit/edit_terms.py --terms ./terms --vocabulary ./vocabulary \
     move "Old Category/Subcategory/Old Name" "New Category/Subcategory/New Name"
 ```
 
-Moves a term to a different location and/or renames it while **preserving its original vocabulary ID**. This ensures that existing references to the term remain valid.
+Moves subcategories or terms to different locations and/or renames them while **preserving all vocabulary IDs**. This ensures that existing references remain valid. When moving subcategories, all terms within are moved together.
 
 ### Batch Operations
 
@@ -109,7 +125,10 @@ python3 src/edit/edit_terms.py --terms ./terms --vocabulary ./vocabulary \
 
 Batch file format (one operation per line):
 ```
-add "New Term 1" "Category/Subcategory"
+add "New Category" ""                    # Create top-level category
+add "New Term 1" "Category/Subcategory"  # Add term to subcategory
+move "Category/Subcategory" "New Category/Subcategory"  # Move subcategory
+move "Category/Subcategory/Term" "Category/Subcategory/Renamed Term"  # Move term
 remove "Category/Subcategory/Old Term"
-move "Category/Subcategory/Term" "Category/Subcategory/Renamed Term"
-# Lines starting with # are comments ```
+# Lines starting with # are comments
+```
