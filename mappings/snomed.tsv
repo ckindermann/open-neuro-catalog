@@ -1,1 +1,34 @@
-vocabulary_id	mapping_id
+vocabulary_term	vocabulary_id	SNOMED_term	snomed_id
+Concussion	ONVOC:0000575	SNOMED:110030002	Concussion injury of brain
+Anxiety	ONVOC:0000694	SNOMED:126943008	Separation Anxiety
+Traumatic Brain Injury	ONVOC:0000566	SNOMED:127295002	Traumatic Brain Injury
+Bipolar Disorder	ONVOC:0000208	SNOMED:13746004	 Bipolar disorder
+Obsessive-Compulsive Disorder	ONVOC:0000212	SNOMED:191736004	Obsessive-compulsive disorder
+Anxiety Disorders	ONVOC:0000204	SNOMED:197480006	Anxiety Disorder
+Borderline Personality Disorder	ONVOC:0000209	SNOMED:20010003	 Borderline personality disorder
+Anxiety Disorders	ONVOC:0000204	SNOMED:21897009	Generalized anxiety disorder
+Overweight	ONVOC:0000646	SNOMED:238131007	Overweight
+Female	ONVOC:0000601	SNOMED:248152002	Female
+Male	ONVOC:0000600	SNOMED:248153007	Male
+Social Phobia	ONVOC:0000225	SNOMED:25501002	 Social Phobia
+Wechsler Adult Intelligence Scale	ONVOC:0000627	SNOMED:273917002	Wechsler adult intelligence scale - revised
+Wechsler Memory Scale	ONVOC:0000628	SNOMED:273921009	Wechsler memory scale
+Depressive Disorder	ONVOC:0000207	SNOMED:310495003	Mild Depression
+Depressive Disorder	ONVOC:0000207	SNOMED:310496002	Moderate Depression
+Depressive Disorder	ONVOC:0000207	SNOMED:35489007	Depressive Disorder
+Autism Spectrum Disorder	ONVOC:0000215	SNOMED:35919005	 Autism Spectrum Disorder
+Depressive Disorder	ONVOC:0000207	SNOMED:370143000	Major depressive disorder
+Migraine	ONVOC:0000174	SNOMED:37796009	Migraine
+Impaired Vision	ONVOC:0000513	SNOMED:397540003	Visual Impairment
+Attention-Deficit Hyperactivity Disorder	ONVOC:0000210	SNOMED:406506008	Attention deficit hyperactivity disorder
+Aneurysm	ONVOC:0000136	SNOMED:432119003	Aneurysm
+Mood Disorder	ONVOC:0000243	SNOMED:46206005	Mood disorder
+Parkinson's Disease	ONVOC:0000178	SNOMED:49049000	Parkinson's Disease
+Cardiovascular Disease	ONVOC:0000152	SNOMED:49601007	Disorder of cardiovascular system
+Schizophrenia	ONVOC:0000217	SNOMED:58214004	Schizophrenia
+Dyslexia	ONVOC:0000185	SNOMED:59770006	Dyslexia
+Ataxia	ONVOC:0000203	SNOMED:715751004	Spinocerebellar ataxia type 2
+Psychiatric Disorders	ONVOC:0000134	SNOMED:74732009	Mental disorder
+Smoking	ONVOC:0000022	SNOMED:77176002	Smoker
+Mood Disorder	ONVOC:0000243	SNOMED:78667006	Dysthymia
+Aphasia	ONVOC:0000199	SNOMED:87486003	Aphasia
